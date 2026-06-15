@@ -1,0 +1,1049 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-15",
+  "updatedAt": "2026-06-15T12:00:00Z",
+  "exportedAt": "2026-06-15T23:24:14.187Z",
+  "districtCode": "FL-22",
+  "data": {
+    "DISTRICT": {
+      "id": "fl-22",
+      "districtNumber": "FL-22",
+      "districtName": "Florida's 22nd Congressional District",
+      "state": "Florida",
+      "counties": [
+        "Broward County (western portion; ~345,595 of 769,000 district residents)",
+        "Palm Beach County (western portion; ~209,501 of 769,000 district residents)",
+        "Hendry County (rural interior South Florida)",
+        "Collier County (including Marco Island on Gulf Coast)"
+      ],
+      "majorPlaces": [
+        "Weston (Broward)",
+        "Parkland (Broward)",
+        "Wellington (Palm Beach, western)",
+        "Royal Palm Beach (Palm Beach, western)",
+        "Belle Glade (Palm Beach, western)",
+        "Immokalee (Collier, agricultural community)",
+        "Marco Island (Collier, Gulf Coast)"
+      ],
+      "cycleYear": 2026,
+      "population": 769000,
+      "registeredVoters": 310000,
+      "partyRegistration": [
+        {
+          "label": "Republican",
+          "count": 138000,
+          "pct": 44.5
+        },
+        {
+          "label": "Democratic",
+          "count": 108000,
+          "pct": 34.8
+        },
+        {
+          "label": "No Party Affiliation",
+          "count": 54000,
+          "pct": 17.4
+        },
+        {
+          "label": "Other",
+          "count": 10000,
+          "pct": 3.3
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — FL-22 (new HB 1-D boundaries, formerly FL-25)",
+        "winner": {
+          "name": "Donald Trump (R) — presidential baseline (new FL-22 boundaries)",
+          "pct": 55,
+          "votes": 148000
+        },
+        "runnerUp": {
+          "name": "Kamala Harris (D) — presidential baseline (new FL-22 boundaries)",
+          "pct": 44.9,
+          "votes": 121000
+        },
+        "turnoutPct": 52
+      }
+    },
+    "SOURCES": {
+      "src-fl-dos-elections": {
+        "id": "src-fl-dos-elections",
+        "name": "Florida Division of Elections — Election Dates 2026",
+        "short": "FL DOS Elections",
+        "url": "https://dos.fl.gov/elections/for-voters/election-dates/",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
+      },
+      "src-fl-dos-register": {
+        "id": "src-fl-dos-register",
+        "name": "Florida Division of Elections — Voter Registration",
+        "short": "FL Voter Registration",
+        "url": "https://dos.fl.gov/elections/for-voters/voter-registration/",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high"
+      },
+      "src-fl-dos-qualifying": {
+        "id": "src-fl-dos-qualifying",
+        "name": "Florida Division of Elections — Candidate Qualifying",
+        "short": "FL Candidate Qualifying",
+        "url": "https://dos.fl.gov/elections/candidates-committees/qualifying/",
+        "publisher": "Florida Department of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Qualifying period June 8–12, 2026 for U.S. House seats under HB 1-D boundaries."
+      },
+      "src-broward-soe": {
+        "id": "src-broward-soe",
+        "name": "Broward County Supervisor of Elections (browardvotes.gov)",
+        "short": "Broward SOE",
+        "url": "https://browardvotes.gov/voters/vote-mail-information",
+        "publisher": "Broward County Supervisor of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Broward County is the most populous county in FL-22 under HB 1-D (~345,595 of 769,000 district residents), covering western/suburban portions including Weston, Parkland, and the Fort Lauderdale western suburbs. Domain note: browardvotes.gov is the active SOE portal; browardsoe.org returned errors during research."
+      },
+      "src-palmbeach-soe": {
+        "id": "src-palmbeach-soe",
+        "name": "Palm Beach County Supervisor of Elections (pbcelections.org)",
+        "short": "Palm Beach SOE",
+        "url": "https://www.pbcelections.org",
+        "publisher": "Palm Beach County Supervisor of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Western Palm Beach County (~209,501 of 769,000 district residents) is FL-22's second most populous county portion, covering Wellington, Royal Palm Beach, Loxahatchee Groves, Belle Glade, Pahokee, South Bay, and Immokalee-adjacent rural communities."
+      },
+      "src-collier-soe": {
+        "id": "src-collier-soe",
+        "name": "Collier County Supervisor of Elections (colliervotes.gov)",
+        "short": "Collier SOE",
+        "url": "https://www.colliervotes.gov",
+        "publisher": "Collier County Supervisor of Elections — Melissa Blazier",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Collier County (including Marco Island on the Gulf Coast and Immokalee) is part of the new FL-22 under HB 1-D. Voters in Collier who were in FL-26 under the old map received new Voter Information Cards reflecting the district change."
+      },
+      "src-hendry-soe": {
+        "id": "src-hendry-soe",
+        "name": "Hendry County Supervisor of Elections",
+        "short": "Hendry SOE",
+        "url": "https://www.hendrycountyelections.gov",
+        "publisher": "Hendry County Supervisor of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Hendry County (rural interior of South Florida) is part of the new FL-22 under HB 1-D. Small electorate; heavily Republican-leaning rural community."
+      },
+      "src-fl-elec-code-ch101": {
+        "id": "src-fl-elec-code-ch101",
+        "name": "Florida Statutes Title IX, Chapter 101 — Voting Methods and Procedure",
+        "short": "FL Statutes Ch. 101",
+        "url": "https://www.flsenate.gov/Laws/Statutes/2024/Title-IX/Chapter-101",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
+      },
+      "src-fl-elec-code-sb90": {
+        "id": "src-fl-elec-code-sb90",
+        "name": "Florida SB 90 (2021) — Enrolled Bill Text (Florida Senate)",
+        "short": "FL SB 90 (2021)",
+        "url": "https://www.flsenate.gov/Session/Bill/2021/90/BillText/c2/HTML",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
+      },
+      "src-fl-senate-hb1d": {
+        "id": "src-fl-senate-hb1d",
+        "name": "Florida Legislature — HB 1-D (2026 Congressional Redistricting)",
+        "short": "FL HB 1-D (2026)",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
+        "publisher": "Florida Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Signed by Gov. DeSantis on May 4, 2026. Renumbered all 28 Florida congressional districts, converting old FL-25 (Wasserman Schultz) into the new FL-22. Old FL-22 (Frankel) became FL-23. FL Supreme Court denied preliminary injunction 6-1 on June 10, 2026."
+      },
+      "src-ballotpedia-fl22": {
+        "id": "src-ballotpedia-fl22",
+        "name": "Ballotpedia — Florida's 22nd Congressional District",
+        "short": "Ballotpedia FL-22",
+        "url": "https://ballotpedia.org/Florida%27s_22nd_Congressional_District",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "medium",
+        "notes": "CAUTION: As of June 2026, Ballotpedia's FL-22 page may still show pre-HB-1-D data (Lois Frankel as incumbent, Cook PVI D+7). Those figures apply to the OLD FL-22 — now renumbered FL-23 under HB 1-D. The NEW FL-22 under HB 1-D is an open Republican-leaning seat (approx. R+9). Verify data currency before citing."
+      },
+      "src-democracy-docket": {
+        "id": "src-democracy-docket",
+        "name": "Democracy Docket — Equal Ground Education Fund v. Byrd",
+        "short": "Democracy Docket FL",
+        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
+        "publisher": "Democracy Docket",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Tracks active litigation challenging HB 1-D under Florida's Fair Districts Amendment. FL Supreme Court denied emergency relief June 10, 2026 (6-1); merits trial ongoing. HB 1-D map remains in effect for 2026 elections."
+      },
+      "src-nytimes-wss": {
+        "id": "src-nytimes-wss",
+        "name": "New York Times — Wasserman Schultz Announces Run in FL-20 (May 22, 2026)",
+        "short": "NYT — WSS FL-20",
+        "url": "https://www.nytimes.com/2026/05/22/us/politics/wasserman-schultz-redistricting.html",
+        "publisher": "The New York Times",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Confirms Wasserman Schultz chose FL-20 over FL-22 (where she resides under new map). Directly relevant to the open-seat status of FL-22."
+      },
+      "src-wlrn-wss": {
+        "id": "src-wlrn-wss",
+        "name": "WLRN — Wasserman Schultz Announces Reelection Bid in FL-20 (May 22, 2026)",
+        "short": "WLRN — WSS FL-20",
+        "url": "https://www.wlrn.org/light/government-politics/2026-05-22/wasserman-schultz-fl-20-congress-election-primary",
+        "publisher": "WLRN Public Media (South Florida NPR)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "South Florida NPR station confirms Wasserman Schultz announced FL-20 bid on May 22, 2026, leaving FL-22 an open seat."
+      },
+      "src-florida-press-hb1d": {
+        "id": "src-florida-press-hb1d",
+        "name": "The Florida Press — DeSantis Signs Congressional Map Creating 24 GOP Seats (May 2026)",
+        "short": "Florida Press — HB 1-D Signing",
+        "url": "https://www.thefloridapress.com/news/desantis-signs-florida-congressional-map-creating-24-gop-leaning-districts",
+        "publisher": "The Florida Press",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Reports HB 1-D signing on May 4, 2026 — hours after the U.S. Supreme Court narrowed the Voting Rights Act. New map creates 24 Republican-leaning and 4 Democratic-leaning seats, renumbering all 28 Florida districts."
+      },
+      "src-stet-baxter": {
+        "id": "src-stet-baxter",
+        "name": "Stet News Palm Beach County — Sara Baxter Files for FL-22 (June 8, 2026)",
+        "short": "Stet News — Baxter FL-22",
+        "url": "https://stetnews.org/2026/06/08/baxter-drops-county-commission-bid-to-run-for-congress/",
+        "publisher": "Stet News Palm Beach County",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Reports Sara Baxter (Palm Beach County Mayor) filing for FL-22 on first day of qualifying. Describes FL-22 as open seat under new HB 1-D numbering, confirms district population of 769,000 and Trump 55% in 2024."
+      },
+      "src-wptv-baxter": {
+        "id": "src-wptv-baxter",
+        "name": "WPTV — Palm Beach County Mayor Drops Commission Race, Launches FL-22 Bid",
+        "short": "WPTV — Baxter FL-22",
+        "url": "https://www.wptv.com/news/palm-beach-county/exclusive-palm-beach-county-mayor-drops-commission-race-launches-bid-for-congressional-district-22",
+        "publisher": "WPTV (West Palm Beach NBC affiliate)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Local TV coverage confirming FL-22 as the post-HB-1-D open Republican-leaning seat. Reports Kaysia Earley as Democratic candidate from Parkland."
+      },
+      "src-nrf-appeal": {
+        "id": "src-nrf-appeal",
+        "name": "National Redistricting Foundation — Equal Ground v. Byrd Appeal (May 28, 2026)",
+        "short": "NRF — Equal Ground Appeal",
+        "url": "https://redistrictingfoundation.org/2026/05/28/nrf-supported-voters-appeal-florida-redistricting-decision/",
+        "publisher": "National Redistricting Foundation",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-15",
+        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "notes": "Documents plaintiffs' appeal of Leon County Circuit Court preliminary injunction denial to Florida's First District Court of Appeals, filed May 28, 2026."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-fl22-hb1d-signed",
+        "milestone": "HB 1-D signed — new FL-22 boundaries take effect",
+        "electionType": "primary",
+        "date": "2026-05-04",
+        "significance": "Governor DeSantis signed Florida HB 1-D into law, redrawing all 28 congressional districts. The new FL-22 corresponds to former FL-25 (Wasserman Schultz's northern Broward/Everglades district), expanded to include western Palm Beach County, Hendry County, and Collier County. The old FL-22 (Lois Frankel's Palm Beach County seat) was renumbered FL-23. This creates an open, Republican-leaning seat (approx. R+9 to R+10).",
+        "governingAuthority": "Florida Legislature / Governor's Office",
+        "sourceIds": [
+          "src-fl-senate-hb1d",
+          "src-florida-press-hb1d"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl22-qualifying-open",
+        "milestone": "Candidate qualifying period opens — FL-22",
+        "electionType": "primary",
+        "date": "2026-06-08",
+        "significance": "First day of qualifying for U.S. House candidates under HB 1-D boundaries. Sara Baxter (R, Palm Beach County Mayor) filed on this day, dropping her county commission re-election bid. Multiple other candidates also filed. Michael Carbonara (R) had already been raising funds in anticipation of qualifying.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-qualifying",
+          "src-stet-baxter"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl22-qualifying-close",
+        "milestone": "Candidate qualifying deadline — FL-22",
+        "electionType": "primary",
+        "date": "2026-06-12",
+        "significance": "Noon deadline for U.S. House candidates to qualify for the August 18 primary. Final FL-22 candidate field is set after this date. Republican primary has approximately 12+ declared candidates; Democratic primary has at least 2 (Dandiya, Earley); Lev Parnas running as Independent.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-qualifying"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-06-15",
+        "status": "confirmed"
+      },
+      {
+        "id": "evt-fl22-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-20",
+        "significance": "Last day to register to vote or change party affiliation for the August 18, 2026 Florida primary. Florida has a closed primary: only registered Republicans may vote in the GOP primary; only registered Democrats in the Democratic primary. Voters must be registered with the party by this date (29 days before election). No party affiliation (NPA) voters may not vote in either major-party primary for U.S. House. Register at registertovoteflorida.gov or county SOE offices.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-dos-register",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-primary-vbm-request-deadline",
+        "milestone": "Vote-by-mail request deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-06",
+        "significance": "5:00 p.m. deadline to request a vote-by-mail ballot for the August 18 primary (12 days before election). Under SB 90 (2021), VBM requests no longer carry over between election cycles — voters who had a standing request must re-request for 2026. Request through Broward County SOE (browardvotes.gov), Palm Beach SOE (pbcelections.org), Collier SOE (colliervotes.gov), or Hendry SOE.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-sb90",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-primary-early-start",
+        "milestone": "In-person early voting begins — primary (mandatory minimum)",
+        "electionType": "primary",
+        "date": "2026-08-08",
+        "significance": "Florida law requires early voting to begin no later than the 10th day before a primary election (August 8 for the August 18 primary). FL-22 voters may cast their ballot at any early voting site within their county (Broward, Palm Beach, Collier, or Hendry). Minimum 8 hours/day at each site; counties may add optional additional days. Drop boxes restricted to SOE main office, branch offices, and early voting sites (all must be staffed, per SB 90). Check county SOE websites for specific site locations.",
+        "governingAuthority": "Broward SOE, Palm Beach SOE, Collier SOE, Hendry SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-broward-soe",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-primary-early-end",
+        "milestone": "In-person early voting ends — primary",
+        "electionType": "primary",
+        "date": "2026-08-15",
+        "significance": "Early voting must continue through the 3rd day before the primary (August 15). Voters may also drop off completed vote-by-mail ballots at any early voting site in their county during early voting hours (SB 90). After August 15, ballot drop boxes are only available at SOE main offices.",
+        "governingAuthority": "Broward SOE, Palm Beach SOE, Collier SOE, Hendry SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-broward-soe",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-primary-day",
+        "milestone": "Primary election day — FL-22",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "Florida closed primary. FL-22 Republican primary (Michael Carbonara, Herbert 'Herbie' Wertheim, Sara Baxter, Belinda Keiser, Terri Hasdorff, Steve Avila, and other candidates) determines the GOP nominee for the open seat. FL-22 Democratic primary (Pia Dandiya, Kaysia Earley) determines Democratic nominee. Lev Parnas (Independent) does not participate in a primary. Polls open 7 AM – 7 PM; photo ID required in person. Mail ballots must arrive at SOE by 7 PM — no postmark grace period.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-broward-soe",
+          "src-palmbeach-soe",
+          "src-ballotpedia-fl22"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-primary-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "Vote-by-mail ballots must be received by the Supervisor of Elections by 7:00 p.m. on Election Day (August 18). Florida does not count ballots that arrive after polls close, even if postmarked before Election Day. Voters should plan to return ballots by mail no later than August 11 (7 days before election), or use a drop box or early voting site drop-off through August 15.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-primary-canvass-deadline",
+        "milestone": "County canvass certification deadline — primary",
+        "electionType": "primary",
+        "date": "2026-09-01",
+        "significance": "County Supervisors of Elections in Broward, Palm Beach, Collier, and Hendry must complete the official canvass and certify results to the Florida Department of State within approximately 14 days of the primary (approximately September 1, 2026). Florida's canvass window is among the shortest in the nation.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-05",
+        "significance": "Last day to register to vote for the November 3, 2026 general election (29 days before election day). Florida does not have same-day voter registration. All FL-22 voters — across Broward, Palm Beach, Collier, and Hendry counties — must be registered by this date. Voters who need to change party affiliation for the general's down-ballot contests must also update by October 5.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-register",
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-vbm-request-deadline",
+        "milestone": "Vote-by-mail request deadline — general",
+        "electionType": "general",
+        "date": "2026-10-22",
+        "significance": "5:00 p.m. deadline to request a vote-by-mail ballot for the November 3 general election (12 days before election). Under SB 90 (2021), requests expire after each general election cycle — voters who requested VBM for the primary must make a new request for the general. Request through your county SOE website.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-sb90",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-early-start",
+        "milestone": "In-person early voting begins — general (mandatory minimum)",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "Florida law requires early voting to begin no later than the 10th day before the general election (October 24 for the November 3 general). FL-22 voters may use any early voting site in their county. Minimum 8 hours/day, up to 12. Broward and Palm Beach counties typically offer additional days and extended hours beyond the mandatory minimum. Check each county SOE for specific sites and hours.",
+        "governingAuthority": "Broward SOE, Palm Beach SOE, Collier SOE, Hendry SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-broward-soe",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-early-end",
+        "milestone": "In-person early voting ends — general",
+        "electionType": "general",
+        "date": "2026-10-31",
+        "significance": "Early voting must continue through the 3rd day before the general election (October 31). Voters may drop off completed mail ballots at any early voting site in their county during early voting hours. After October 31, drop boxes available only at SOE main offices through 7 PM on Election Day.",
+        "governingAuthority": "Broward SOE, Palm Beach SOE, Collier SOE, Hendry SOE",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101",
+          "src-broward-soe",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-day",
+        "milestone": "General Election — FL-22 open seat",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. FL-22 open seat winner determined. Republican nominee (from August 18 primary) vs. Democratic nominee (Dandiya or Earley, from August 18 primary) vs. Lev Parnas (Independent). Polls open 7 AM – 7 PM. Photo ID required in person. FL-22 is an open, Republican-leaning seat (approx. R+9 to R+10 on 2024 presidential baseline; Trump ~55% in 2024 under new boundaries).",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-broward-soe",
+          "src-palmbeach-soe",
+          "src-ballotpedia-fl22"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Vote-by-mail ballots must be received by the Supervisor of Elections by 7:00 p.m. on Election Day (November 3). Florida does not accept ballots arriving after polls close regardless of postmark. Voters should mail ballots by October 27 (7 days before election) to allow USPS delivery time, or use a county drop box or early voting site return through October 31.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-17",
+        "significance": "Florida county SOEs must certify and submit canvass results to the Secretary of State within approximately 14 days of the general election (approximately November 17, 2026). Covers all four FL-22 counties: Broward, Palm Beach, Collier, and Hendry.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-fl22-general-state-certification",
+        "milestone": "Secretary of State certification — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "The Florida Secretary of State certifies official statewide results approximately 3 weeks after Election Day, following completion of all county canvasses and any automatic recounts.",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-fl-voter-id",
+        "topic": "Photo ID required to vote in person",
+        "currentRule": "Florida requires all voters to present current, valid photo identification at polling places and early voting sites. If the photo ID does not contain a signature, a second form of ID with signature is required. Acceptable IDs include: Florida driver's license or ID card (DHSMV), U.S. passport, debit or credit card, military ID, student ID, retirement center ID, neighborhood association ID, public assistance ID, VA health ID, Florida concealed weapon/firearm license (§790.06), or any government-issued employee ID. Voters without acceptable ID may cast a provisional ballot and must provide ID to their county SOE within 2 days.",
+        "status": "active",
+        "whyItMatters": "Every FL-22 voter casting a ballot in person — at a polling place or early voting site in Broward, Palm Beach, Collier, or Hendry county — must bring a valid photo ID. The requirement applies equally to early voting and Election Day voting.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.043. Voters without ID may cast a provisional ballot; they have 2 days post-election to provide acceptable ID to have their provisional ballot counted."
+      },
+      {
+        "id": "rule-fl-closed-primary",
+        "topic": "Closed primary — party registration required",
+        "currentRule": "Florida has a closed primary system for partisan races. Only registered Republicans may vote in the FL-22 Republican primary; only registered Democrats in the FL-22 Democratic primary. Voters registered as No Party Affiliation (NPA) or with a third party may not vote in either major-party primary for U.S. House. Party registration must be current by the primary registration deadline (July 20, 2026 for the August 18 primary).",
+        "status": "active",
+        "whyItMatters": "The FL-22 Republican nominee will be decided exclusively by registered Republicans. The FL-22 Democratic nominee exclusively by registered Democrats. The district's large NPA population is excluded from both primaries. Voters who want to participate must register or change party by July 20, 2026.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.021. Closed primaries apply to all partisan offices including U.S. Congress. Party change deadline is the same as the general registration deadline: 29 days before the primary."
+      },
+      {
+        "id": "rule-fl-registration-deadline",
+        "topic": "Voter registration deadline — 29 days before election; no same-day registration",
+        "currentRule": "Florida requires voters to register at least 29 days before any federal election. For the 2026 cycle: primary registration deadline is July 20, 2026; general election deadline is October 5, 2026. Florida does not have same-day or conditional voter registration. Registration available online at registertovoteflorida.gov, by mail (postmarked by deadline), or in person at county SOE offices before closing time on the deadline.",
+        "status": "active",
+        "whyItMatters": "Voters newly placed in FL-22 under HB 1-D boundaries (particularly voters in Hendry and Collier counties formerly in other districts) should verify their district assignment and registration before the July 20, 2026 deadline. There is no safety net of same-day registration in Florida.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-dos-register",
+          "src-fl-elec-code-ch101"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §97.055. Book closing applies equally to the primary and general. No conditional, provisional-day-of, or same-day registration is available."
+      },
+      {
+        "id": "rule-fl-vbm-sb90-request",
+        "topic": "Vote-by-mail request required each election cycle (SB 90)",
+        "currentRule": "Under SB 90 (enacted July 1, 2021), vote-by-mail ballot requests in Florida expire after each general election cycle. Voters who previously had standing multi-election VBM requests must re-request for each new cycle. Requests may be made online, by mail, in person, or by fax through the county SOE. The request must include the voter's Florida driver's license number, Florida ID number, or last four digits of Social Security Number for identity verification.",
+        "status": "active",
+        "whyItMatters": "Many FL-22 voters across Broward, Palm Beach, Collier, and Hendry counties who relied on automatic VBM renewal under the prior system may be unaware their request expired. They must actively re-request for 2026 by August 6 (primary) or October 22 (general).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-sb90",
+          "src-fl-dos-elections",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §§101.62, amended by SB 90 (2021). Request deadline: 12 days before the election (per research data; cross-check FL DOS calendar). Identity verification required."
+      },
+      {
+        "id": "rule-fl-drop-boxes-sb90",
+        "topic": "Ballot drop box restrictions (SB 90 — staffed drop boxes at SOE offices and early voting sites only)",
+        "currentRule": "Under SB 90 (2021), official ballot drop boxes are only permitted at: (1) the Supervisor of Elections main office, (2) SOE branch offices, and (3) early voting sites — and all must be physically staffed by an election worker at all times when accessible. Drop boxes at branch offices may close at 5:00 p.m. on Election Day; the main SOE office drop box remains open until 7:00 p.m. Voters CANNOT drop off a vote-by-mail ballot at a regular polling place on Election Day (only to cancel it and vote in person).",
+        "status": "active",
+        "whyItMatters": "FL-22 spans a large geographic area across four counties. Voters wishing to use drop boxes must travel to their county's SOE main office, branch office, or an early voting site (during the early voting period). Community drop boxes that existed pre-SB 90 are no longer permitted. Voters in rural Hendry and Collier counties should plan accordingly.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-sb90",
+          "src-fl-dos-elections",
+          "src-broward-soe",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.69(2), amended by SB 90 (2021). Drop boxes at branch SOE offices may close at 5 PM on Election Day; main office drop box closes at 7 PM. Staffing requirement: must be attended by a county election worker at all accessible hours."
+      },
+      {
+        "id": "rule-fl-vbm-receipt-no-postmark",
+        "topic": "Mail ballot must arrive — not just be postmarked — by 7 PM on Election Day",
+        "currentRule": "Florida law requires that voted mail ballots be received by the Supervisor of Elections by 7:00 p.m. on Election Day. Unlike many states, Florida provides no postmark grace period — a ballot postmarked before Election Day but received the next day is not counted. Ballots may be returned by USPS mail (must arrive by 7 PM), in person at any early voting site during early voting hours, or at the SOE main office drop box (closes 7 PM Election Day).",
+        "status": "active",
+        "whyItMatters": "FL-22 voters mailing their ballots should allow at least 5–7 days for USPS delivery. The recommended send-back date for the August 18 primary is approximately August 11; for the November 3 general, approximately October 27. Voters with remaining time should use a drop box or early voting site return rather than mail.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §§101.62, 101.65, 101.68. No postmark grace period in Florida. Ballot must be received by SOE or returned at a valid return location by 7:00 PM on Election Day."
+      },
+      {
+        "id": "rule-fl-signature-cure",
+        "topic": "Mail ballot signature cure — 2-day post-election cure window",
+        "currentRule": "If a returned vote-by-mail envelope has a missing or mismatched signature, the supervisor of elections must notify the voter. The voter may cure by 5:00 p.m. on the 2nd day after the election by submitting a Vote-by-Mail Ballot Cure Affidavit (Form DS-DE 139) plus a copy of valid ID. Signature comparison uses the voter's most recent signature on file. A mismatch determination requires majority vote of the canvassing board under a 'beyond a reasonable doubt' standard (SB 90 amendment to §101.68(2)(c)1).",
+        "status": "active",
+        "whyItMatters": "FL-22 voters returning mail ballots should sign the envelope exactly as their current registration signature appears. If a signature is flagged, the voter has a narrow 2-day window to cure. Voters should verify their registration signature is up to date before the election through their county SOE.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-sb90",
+          "src-fl-elec-code-ch101",
+          "src-broward-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.68(2)(c)1, as amended by SB 90 (2021). Cure deadline: 5 PM, 2nd day after election. Affidavit form DS-DE 139 required. Mismatch: majority canvassing board vote, beyond reasonable doubt standard."
+      },
+      {
+        "id": "rule-fl-early-voting",
+        "topic": "Early voting — mandatory 8-day window, minimum 8 hours/day",
+        "currentRule": "Florida law requires a mandatory early voting period of at least 8 days, running from the 10th day to the 3rd day before Election Day, with each site open at least 8 hours per day (up to 12 hours). For 2026: Primary mandatory window August 8–15; General mandatory window October 24–31. Supervisors may additionally offer early voting on the 15th, 14th, 13th, 12th, 11th, or 2nd days before election. FL-22 voters may cast their ballot at ANY early voting site in their county.",
+        "status": "active",
+        "whyItMatters": "FL-22 spans four counties, so early voting sites differ by county. Voters in western Broward (Weston, Parkland), western Palm Beach (Wellington, Belle Glade), Collier (Naples area, Marco Island), and Hendry (Clewiston) should check their respective county SOE for the nearest site list. Voters may use any site in their own county, not only the one nearest their home.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections",
+          "src-broward-soe",
+          "src-palmbeach-soe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.657. Mandatory 8-day minimum period. Counties may extend up to 14 days. Minimum 8 hrs/day; SOE may offer up to 12 hrs/day. Voter may use any site within their county."
+      },
+      {
+        "id": "rule-fl-provisional-ballots",
+        "topic": "Provisional ballots — wrong precinct, missing ID, or VBM conflict",
+        "currentRule": "Florida voters who do not appear on the precinct rolls, cannot produce acceptable photo ID, or whose voter record shows a VBM ballot has been issued must cast a provisional ballot at their assigned precinct. Provisional ballots are reviewed during the canvass. Voters have 2 days after the election to provide missing information (e.g., ID, cure affidavit) to have their provisional ballot counted. Voting at the wrong precinct may result in the congressional race not being counted on that ballot.",
+        "status": "active",
+        "whyItMatters": "Under HB 1-D, some FL-22 voters — particularly those in Hendry and Collier counties newly reassigned from other districts, and western Broward and Palm Beach communities with new congressional boundaries — may find their precinct assignment has changed. Voters should verify their polling place assignment through their county SOE before Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-dos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.048. 2-day cure window post-election for ID-related provisional ballots. Voters should verify precinct assignments at browardvotes.gov, pbcelections.org, colliervotes.gov, or hendrycountyelections.gov."
+      },
+      {
+        "id": "rule-fl-hb1d-redistricting",
+        "topic": "HB 1-D redistricting — new FL-22 boundaries in effect; litigation ongoing",
+        "currentRule": "Florida HB 1-D (signed May 4, 2026) redraws all 28 congressional district boundaries effective for the August 18, 2026 primary. The new FL-22 covers western Broward County, western Palm Beach County, Hendry County (rural interior), and Collier County (including Marco Island). The old FL-22 (Lois Frankel's Palm Beach County seat) was renumbered FL-23. The Florida Supreme Court denied a preliminary injunction 6-1 on June 10, 2026; the Equal Ground Education Fund v. Byrd lawsuit remains active on the merits.",
+        "status": "watch",
+        "whyItMatters": "Voters across all four FL-22 counties should verify their updated district assignment and precinct before the August 18 primary. If a court were to enjoin the new map after the primary but before the general, district assignments could change again — though this is considered unlikely for 2026 elections.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-senate-hb1d",
+          "src-fl-dos-elections",
+          "src-democracy-docket",
+          "src-florida-press-hb1d"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "HB 1-D signed May 4, 2026. FL Supreme Court denied preliminary injunction June 10, 2026 (6-1), ruling it lacked jurisdiction while the case is pending in lower courts. Underlying Equal Ground v. Byrd lawsuit pending in First DCA; merits trial not yet scheduled."
+      },
+      {
+        "id": "rule-fl-no-early-result-release",
+        "topic": "No early results release — felony prohibition",
+        "currentRule": "Florida prohibits the release of any vote tabulation results before polls close at 7:00 p.m. on Election Day. Early canvassing of vote-by-mail ballots may begin after completion of public testing of tabulation equipment, but no results may be released or shared until after polls close. Releasing results early is a third-degree felony under Florida Statutes §101.68(2)(a).",
+        "status": "active",
+        "whyItMatters": "FL-22 observers and campaigns should not expect any partial results before 7 PM on Election Day (August 18 primary; November 3 general). Post-close results from the four FL-22 counties will be released through the FL Division of Elections results portal (results.elections.myflorida.com).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-fl-elec-code-ch101",
+          "src-fl-elec-code-sb90"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-15",
+        "needsReview": true,
+        "detail": "Florida Statutes §101.68(2)(a). Third-degree felony for early result release. Early canvassing is permitted once tabulation equipment testing is complete; results are embargoed until polls close."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-fl-dos-elections",
+        "label": "Florida Division of Elections — Official elections portal",
+        "url": "https://dos.fl.gov/elections/",
+        "description": "Official Florida elections hub: voter registration, election calendar, qualifying information, candidate data, and voting rules. Authoritative source for FL-22 election deadlines for the 2026 primary (Aug 18) and general (Nov 3).",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-elections",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-fl-register",
+        "label": "registertovoteflorida.gov — Florida online voter registration",
+        "url": "https://registertovoteflorida.gov",
+        "description": "Register to vote, update your address, or change your party affiliation online. Primary registration deadline: July 20, 2026 (closed primary — party registration required). General election deadline: October 5, 2026. Florida does not have same-day registration.",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-register",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-broward-soe",
+        "label": "browardvotes.gov — Broward County Supervisor of Elections",
+        "url": "https://browardvotes.gov",
+        "description": "Official elections portal for Broward County voters — the most populous county in FL-22 under HB 1-D (~345,595 district residents). Covers Weston, Parkland, and western Broward communities. Check precinct assignments, request VBM ballots, find early voting sites. Note: active domain is browardvotes.gov (browardsoe.org had access issues during June 2026 research).",
+        "governingAuthority": "Broward County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-broward-soe",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-palmbeach-soe",
+        "label": "pbcelections.org — Palm Beach County Supervisor of Elections",
+        "url": "https://www.pbcelections.org",
+        "description": "Official elections portal for Palm Beach County voters in FL-22 (~209,501 district residents in western portions: Wellington, Royal Palm Beach, Loxahatchee Groves, Belle Glade, Pahokee, South Bay). Check precinct assignments under new HB 1-D map, request VBM ballots, find early voting locations. Sara Baxter (FL-22 candidate) serves as Palm Beach County Mayor District 6 representing this area.",
+        "governingAuthority": "Palm Beach County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-palmbeach-soe",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-collier-soe",
+        "label": "colliervotes.gov — Collier County Supervisor of Elections",
+        "url": "https://www.colliervotes.gov",
+        "description": "Official elections portal for Collier County voters in FL-22 (including Marco Island, Naples-area precincts, and Immokalee agricultural communities). Collier County is part of the new FL-22 under HB 1-D — voters who were previously in FL-26 or other districts should verify their updated district assignment.",
+        "governingAuthority": "Collier County Supervisor of Elections — Melissa Blazier",
+        "sourceType": "official-county",
+        "sourceId": "src-collier-soe",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-hendry-soe",
+        "label": "hendrycountyelections.gov — Hendry County Supervisor of Elections",
+        "url": "https://www.hendrycountyelections.gov",
+        "description": "Official elections portal for Hendry County voters in FL-22 (rural interior South Florida, including Clewiston and LaBelle). Hendry County is part of the new FL-22 under HB 1-D. Rural area with limited early voting infrastructure — check SOE site for site locations before Election Day.",
+        "governingAuthority": "Hendry County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-hendry-soe",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-fl-dos-results",
+        "label": "Florida Division of Elections — Election Results",
+        "url": "https://results.elections.myflorida.com",
+        "description": "Official Florida election results portal. FL-22 primary results (August 18, 2026) and general election results (November 3, 2026) will be posted here after polls close at 7 PM. Results span all four FL-22 counties: Broward, Palm Beach, Collier, and Hendry.",
+        "governingAuthority": "Florida Department of State",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-dos-elections",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-fl-senate-hb1d",
+        "label": "Florida Legislature — HB 1-D redistricting bill (2026)",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
+        "description": "Full text of Florida's 2026 mid-decade congressional redistricting bill (HB 1-D), signed May 4, 2026. Contains the new FL-22 district boundaries: western Broward County + western Palm Beach County + Hendry County + Collier County (including Marco Island). Old FL-22 (Frankel's Palm Beach seat) was renumbered FL-23.",
+        "governingAuthority": "Florida Legislature",
+        "sourceType": "statutory",
+        "sourceId": "src-fl-senate-hb1d",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-ballotpedia-fl22",
+        "label": "Ballotpedia — FL-22 district (use with caution — may show pre-HB-1-D data)",
+        "url": "https://ballotpedia.org/Florida%27s_22nd_Congressional_District",
+        "description": "Nonpartisan reference page for FL-22. CAUTION: As of June 2026, Ballotpedia's page may still reflect pre-HB-1-D data showing Lois Frankel as incumbent with Cook PVI D+7 — those numbers applied to the OLD FL-22 (now renumbered FL-23). The NEW FL-22 is an open seat with approx. R+9 partisan lean. Verify data currency before relying on Ballotpedia for FL-22 candidate or partisan-lean information.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-fl22",
+        "lastVerified": "2026-06-15"
+      },
+      {
+        "id": "res-democracy-docket",
+        "label": "Democracy Docket — Equal Ground Education Fund v. Byrd (HB 1-D litigation)",
+        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
+        "description": "Tracks active litigation challenging HB 1-D under Florida's Fair Districts Amendment. FL Supreme Court denied emergency relief June 10, 2026 (6-1). First DCA appeal ongoing. Merits trial status and any future injunction rulings that could affect FL-22 boundaries will be updated here.",
+        "governingAuthority": "Democracy Docket",
+        "sourceType": "secondary",
+        "sourceId": "src-democracy-docket",
+        "lastVerified": "2026-06-15"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-fl22-001",
+        "title": "HEADS UP: FL-22 was renumbered under HB 1-D — old FL-22 is now FL-23",
+        "fieldChanged": "District identity / numbering",
+        "oldValue": "Pre-HB-1-D FL-22 = Lois Frankel's Palm Beach County seat (Cook PVI D+7, Democratic-leaning)",
+        "newValue": "Under HB 1-D (signed May 4, 2026), old FL-22 was renumbered FL-23 (Frankel's Palm Beach seat). The NEW FL-22 corresponds to former FL-25 (Wasserman Schultz's district), now expanded to include western Palm Beach County, Hendry County, and Collier County. The new FL-22 is an OPEN, Republican-leaning seat (approx. R+9 to R+10; Trump ~55% in 2024 under new boundaries). Voters who think they are in 'FL-22' based on pre-2026 information may actually be in the newly numbered FL-23 (Frankel's Palm Beach seat) or a different district. Check your assignment via your county SOE.",
+        "sourceIds": [
+          "src-fl-senate-hb1d",
+          "src-florida-press-hb1d",
+          "src-stet-baxter"
+        ],
+        "detectedAt": "2026-06-15T12:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-fl22-002",
+        "title": "FL-22 is an open seat — Wasserman Schultz running in FL-20, not FL-22",
+        "fieldChanged": "Incumbent / open-seat status",
+        "oldValue": "Under pre-HB-1-D map: FL-25 (Wasserman Schultz's seat). Some sources mistakenly expected her to run in the new FL-22.",
+        "newValue": "Debbie Wasserman Schultz announced on May 22, 2026 that she is running for re-election in FL-20 (majority-Black, central Broward), not FL-22. While she physically resides in the new FL-22 (Weston, Broward), she chose FL-20. FL-22 is therefore a TRUE OPEN SEAT for 2026. The likely Democratic candidates are Pia Dandiya ($1.17M cash on hand, endorsed by Nikki Fried and EMILY's List) and Kaysia Earley (attorney, Parkland). Republican primary has approximately 12+ declared candidates with Michael Carbonara leading fundraising.",
+        "sourceIds": [
+          "src-nytimes-wss",
+          "src-wlrn-wss",
+          "src-stet-baxter"
+        ],
+        "detectedAt": "2026-06-15T12:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-fl22-003",
+        "title": "FL-22 dashboard initialized — 16 sources, 18 events, 11 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 15, 2026. 16 sources verified (FL DOS, Broward SOE, Palm Beach SOE, Collier SOE, Hendry SOE, FL Statutes Ch. 101, SB 90 bill text, HB 1-D bill text, Ballotpedia FL-22 [with staleness caveat], Democracy Docket, NYT, WLRN, Florida Press, Stet News, WPTV, NRF). 18 election events and 11 voting rules researched from FL DOS and FL Statutes. All events and rules marked needsReview/unconfirmed pending county-specific 2026 deadline confirmation from Broward, Palm Beach, Collier, and Hendry SOEs.",
+        "sourceIds": [
+          "src-fl-dos-elections",
+          "src-broward-soe",
+          "src-palmbeach-soe",
+          "src-fl-elec-code-ch101"
+        ],
+        "detectedAt": "2026-06-15T12:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-fl22-001",
+        "factInQuestion": "District numbering: Multiple databases (including Ballotpedia as of June 2026) still show 'FL-22' as Lois Frankel's D+7 Palm Beach seat rather than the new HB 1-D open Republican-leaning seat",
+        "sourceAId": "src-stet-baxter",
+        "sourceAClaim": "Stet News Palm Beach County (June 8, 2026), WPTV (June 8, 2026), the Almanac of American Politics (Louis Jacobson, June 10, 2026), and all active candidate campaign materials confirm: New FL-22 under HB 1-D = former FL-25, open Republican-leaning seat (Broward/Palm Beach/Hendry/Collier). New FL-23 = Lois Frankel's Palm Beach County seat (former FL-22).",
+        "sourceBId": "src-ballotpedia-fl22",
+        "sourceBClaim": "Ballotpedia's FL-22 page (as of June 2026 research) showed pre-HB-1-D data: incumbent Lois Frankel (D), Cook PVI D+7. Govbase and Daily Kos election databases also used pre-HB-1-D or transitional numbering, listing Frankel as a candidate for 'Florida District 22.' A YouTube video about another candidate referenced 'Congressional District 22 — soon to be redrawn as CD-23,' suggesting data lag.",
+        "whyItMatters": "The partisan lean of the NEW FL-22 (approx. R+9 to R+10) is dramatically different from the OLD FL-22 (D+7 under old Cook PVI) — a swing of approximately 16–17 partisan points. Any dashboard, analysis, or voter communication using Ballotpedia or Govbase data without verifying currency will misrepresent the district's competitiveness, incumbent status, and candidate field. Voters looking up their own congressional district using the 'FL-22' label in stale databases may be directed to Lois Frankel's FL-23 resources instead.",
+        "suggestedReviewAction": "Verify Ballotpedia's FL-22 page has been updated to reflect HB 1-D boundaries and the open-seat status before linking to it as a voter resource. Use Almanac of American Politics, Stet News, and WPTV coverage — all citing new HB 1-D numbering — as cross-references. Add explicit note to any Ballotpedia resource link warning about potential staleness. Flag for re-verification on next refresh cycle.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-15T12:00:00Z"
+      },
+      {
+        "id": "conf-fl22-002",
+        "factInQuestion": "Equal Ground Education Fund v. Byrd: Will the ongoing HB 1-D appeal at Florida's First DCA, or any future merits proceeding, result in a court injunction affecting FL-22 boundaries before or after the 2026 elections?",
+        "sourceAId": "src-fl-senate-hb1d",
+        "sourceAClaim": "Florida Governor DeSantis and Republican legislative leadership: HB 1-D is constitutional, drawn on race-neutral grounds in response to the U.S. Supreme Court's Callais ruling. The Florida Supreme Court denied a preliminary injunction 6-1 on June 10, 2026, ruling it lacks jurisdiction while the case is in lower courts. The map is confirmed in effect for the August 18 primary and November 3 general election. Qualifying proceeded under new boundaries June 8–12, 2026.",
+        "sourceBId": "src-democracy-docket",
+        "sourceBClaim": "Democracy Docket plaintiffs (Equal Ground Education Fund, Common Cause, voting rights groups): HB 1-D violates Florida's Fair Districts Amendment (Art. III, §20), which bans maps drawn to favor parties or incumbents. Map drafters admitted partisan data use on the record. The June 10 FL Supreme Court ruling only addressed the preliminary injunction standard — the merits of the constitutional challenge have not been decided. The First DCA appeal (filed May 28, 2026) remains pending; a merits ruling could potentially affect future elections including 2028 and possibly 2026 if expedited.",
+        "whyItMatters": "For FL-22, a successful legal challenge to HB 1-D could result in the district reverting to previous boundaries or being redrawn again — potentially reinstating a different partisan configuration, changing the open-seat status, or reassigning counties. While unlikely to affect 2026 elections given the court's June 10 ruling, the risk is non-zero. FL-22 voters in Hendry and Collier counties (newly added under HB 1-D) are particularly exposed to boundary uncertainty.",
+        "suggestedReviewAction": "Monitor Democracy Docket and the Florida First DCA docket for any preliminary injunction motions, merits trial dates, or emergency relief applications before November 3, 2026. If any court schedules a hearing or issues an order potentially affecting boundaries before Election Day, immediately escalate to high severity and update the redistricting rule (rule-fl-hb1d-redistricting), the primary election event, and all county SOE source references.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-06-15T12:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-fl22-001",
+        "headline": "DeSantis Signs Florida Congressional Map, Creating 24 GOP-Leaning Districts — FL-22 Renumbered",
+        "sourceName": "The Florida Press",
+        "url": "https://www.thefloridapress.com/news/desantis-signs-florida-congressional-map-creating-24-gop-leaning-districts",
+        "publishedAt": "2026-05-13",
+        "relevanceSummary": "Governor DeSantis signed HB 1-D into law on May 4, 2026, hours after the U.S. Supreme Court narrowed the Voting Rights Act. The new map redraws all 28 Florida congressional districts to produce 24 Republican-leaning and 4 Democratic-leaning seats — a shift from the prior 20-8 Republican-to-Democrat lean. For FL-22 specifically, the renumbering means that the old FL-22 (Lois Frankel's Palm Beach County seat) became FL-23, and the new FL-22 is an open, Republican-leaning seat corresponding to former FL-25 (Wasserman Schultz's district), expanded across Broward, Palm Beach, Hendry, and Collier counties.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-002",
+        "headline": "Wasserman Schultz Announces Reelection Bid in FL-20, Leaving FL-22 an Open Seat",
+        "sourceName": "WLRN (South Florida NPR)",
+        "url": "https://www.wlrn.org/light/government-politics/2026-05-22/wasserman-schultz-fl-20-congress-election-primary",
+        "publishedAt": "2026-05-22",
+        "relevanceSummary": "Debbie Wasserman Schultz announced she will run for re-election in Florida's 20th congressional district (majority-Black, central Broward), not in FL-22 where she resides under the new HB 1-D map (Weston, Broward). This decision — made amid backlash from Black Democratic leaders — leaves the new FL-22 as a true open seat with no incumbent running. WLRN's coverage confirms FL-22's open-seat status and notes she was actively polling both districts before choosing FL-20.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-003",
+        "headline": "Florida Supreme Court Clears New Congressional Map for 2026 Elections",
+        "sourceName": "WFLA Orlando / iHeart Radio",
+        "url": "https://wflaorlando.iheart.com/featured/florida-news/content/2026-06-11-florida-supreme-court-clears-new-congressional-map-for-2026/",
+        "publishedAt": "2026-06-11",
+        "relevanceSummary": "The Florida Supreme Court, in a 6-1 decision on June 10, 2026, denied the emergency petition in Equal Ground Education Fund v. Byrd, ruling it lacked jurisdiction while the case remains in lower courts. The HB 1-D map — including the new FL-22 boundaries — is confirmed for both the August 18 primary and November 3 general election. The underlying constitutional lawsuit challenging HB 1-D under the Fair Districts Amendment remains active and could theoretically affect 2028 maps.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-004",
+        "headline": "Palm Beach County Mayor Sara Baxter Drops Commission Race, Enters FL-22 Congressional Race",
+        "sourceName": "Stet News Palm Beach County",
+        "url": "https://stetnews.org/2026/06/08/baxter-drops-county-commission-bid-to-run-for-congress/",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "Palm Beach County Mayor Sara Baxter (District 6 Commissioner, representing Wellington, Royal Palm Beach, Loxahatchee Groves, Belle Glade) filed to run in the new FL-22 on the first day of qualifying (June 8, 2026), dropping her county commission re-election bid. She joins a crowded Republican field of approximately 12 candidates. The article uses the post-HB-1-D numbering — FL-22 — for the open Republican-leaning seat. District population: 769,000; Trump won with 55% in 2024 under new boundaries.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-005",
+        "headline": "Pia Dandiya Shifts Congressional Run to Florida's New FL-22 District",
+        "sourceName": "American Bazaar Online",
+        "url": "https://americanbazaaronline.com/2026/05/25/pia-dandiya-shifts-congressional-run-from-florida-to-22nd-district-481473/",
+        "publishedAt": "2026-05-25",
+        "relevanceSummary": "Dandiya, endorsed by Florida Democratic Party Chair Nikki Fried and EMILY's List, entered the new FL-22 Democratic primary with $1.17 million cash on hand after previously exploring a challenge to Rep. Brian Mast in FL-21. The article describes the new FL-22 as 'a key swing seat' under the new HB 1-D boundaries. She would be the first South Asian American woman to represent Florida in Congress. This confirms the post-HB-1-D FL-22 identity as the open seat (former FL-25 territory) rather than Frankel's old seat.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-006",
+        "headline": "NRF-Supported Voters Appeal Florida Redistricting Decision — Equal Ground v. Byrd",
+        "sourceName": "National Redistricting Foundation",
+        "url": "https://redistrictingfoundation.org/2026/05/28/nrf-supported-voters-appeal-florida-redistricting-decision/",
+        "publishedAt": "2026-05-28",
+        "relevanceSummary": "Plaintiffs in Equal Ground Education Fund v. Byrd filed their opening brief with Florida's First District Court of Appeals on May 28, 2026, after Judge Joshua Hawkes denied a preliminary injunction on May 26. Plaintiffs simultaneously filed a motion to bypass the First DCA and go directly to the Florida Supreme Court. The Florida Supreme Court ultimately denied emergency relief on June 10 (6-1). The underlying case — challenging HB 1-D as a partisan gerrymander violating Florida's Fair Districts Amendment — remains active. Any ruling could affect whether the new FL-22 boundaries (including the district's open-seat status) stand through 2028.",
+        "tag": "litigation",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-15-fl-22-initial",
+      "startedAt": "2026-06-15T11:00:00Z",
+      "completedAt": "2026-06-15T12:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 16,
+      "updatesCreated": 3,
+      "conflictsCreated": 2,
+      "errors": [],
+      "summary": "Initial build June 15, 2026. 16 sources verified. FL-22 is the new open, Republican-leaning seat (former FL-25) under HB 1-D signed May 4, 2026. Old FL-22 (Frankel) is now FL-23. Wasserman Schultz announced she is running in FL-20 (not FL-22) on May 22, 2026 — FL-22 is a true open seat. Republican primary (~12+ candidates, Carbonara leading) and Democratic primary (Dandiya, Earley). FL Supreme Court denied HB 1-D injunction 6-1 on June 10; Equal Ground v. Byrd merits litigation ongoing. All 18 election events and 11 rules marked needsReview/unconfirmed pending county-specific 2026 deadline confirmation from Broward, Palm Beach, Collier, and Hendry SOEs. 2 high-priority conflicts created: stale database numbering (conf-fl22-001, high) and HB 1-D litigation status (conf-fl22-002, medium)."
+    },
+    "NEXT_REFRESH_AT": "2026-06-22T12:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-fl22-2026-w25",
+      "periodStart": "2026-06-15",
+      "periodEnd": "2026-06-21",
+      "sourcesChecked": 16,
+      "newUpdates": 3,
+      "conflictsCreated": 2,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 18,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 15–21, 2026. CRITICAL CONTEXT: New FL-22 under HB 1-D corresponds to former FL-25 — an open, Republican-leaning seat (approx. R+9, Trump ~55% in 2024). Old FL-22 (Lois Frankel's Palm Beach seat) was renumbered FL-23. Wasserman Schultz chose FL-20 on May 22. Florida closed primary August 18; general November 3. Qualifying closed June 12. Republican primary: ~12+ candidates (Carbonara $3M+ frontrunner, Wertheim $2.5M self-funded, Baxter, Keiser, Hasdorff, Avila, others). Democratic primary: Dandiya ($1.17M, Fried/EMILY's List) and Earley. Independent: Lev Parnas. FL Supreme Court denied HB 1-D injunction 6-1 June 10 (conf-fl22-002, medium). Stale database numbering conflict (conf-fl22-001, high) — Ballotpedia/Govbase may still show Frankel at FL-22. Key FL rules: closed primary (party reg by July 20), photo ID, SB 90 VBM request renewal per cycle, SB 90 drop box restrictions. All 16 sources verified. All 18 events and 11 rules flagged needsReview pending county-specific confirmation.",
+      "generatedAt": "2026-06-15T12:00:00Z"
+    }
+  }
+}
