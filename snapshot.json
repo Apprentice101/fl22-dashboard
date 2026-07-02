@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-06-15",
   "updatedAt": "2026-06-15T12:00:00Z",
-  "exportedAt": "2026-07-01T20:02:39.043Z",
+  "exportedAt": "2026-07-02T04:25:48.776Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -538,8 +538,8 @@
           "src-palmbeach-soe",
           "src-ballotpedia-fl22"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-15",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -602,7 +602,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-15",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "Florida Statutes §101.043. Voters without ID may cast a provisional ballot; they have 2 days post-election to provide acceptable ID to have their provisional ballot counted."
       },
       {
