@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-15",
-  "updatedAt": "2026-06-15T12:00:00Z",
-  "exportedAt": "2026-07-03T00:02:46.347Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:18:09.386Z",
+  "exportedAt": "2026-07-03T00:36:28.686Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -166,7 +166,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -1018,17 +1018,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-15-fl-22-initial",
-      "startedAt": "2026-06-15T11:00:00Z",
-      "completedAt": "2026-06-15T12:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 16,
-      "updatesCreated": 3,
-      "conflictsCreated": 2,
+      "id": "run-2026-07-03-fl22-auto",
+      "startedAt": "2026-07-03T00:17:07.171Z",
+      "completedAt": "2026-07-03T00:18:09.386Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 11,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 15, 2026. 16 sources verified. FL-22 is the new open, Republican-leaning seat (former FL-25) under HB 1-D signed May 4, 2026. Old FL-22 (Frankel) is now FL-23. Wasserman Schultz announced she is running in FL-20 (not FL-22) on May 22, 2026 — FL-22 is a true open seat. Republican primary (~12+ candidates, Carbonara leading) and Democratic primary (Dandiya, Earley). FL Supreme Court denied HB 1-D injunction 6-1 on June 10; Equal Ground v. Byrd merits litigation ongoing. All 18 election events and 11 rules marked needsReview/unconfirmed pending county-specific 2026 deadline confirmation from Broward, Palm Beach, Collier, and Hendry SOEs. 2 high-priority conflicts created: stale database numbering (conf-fl22-001, high) and HB 1-D litigation status (conf-fl22-002, medium)."
+      "summary": "Automated refresh completed 2026-07-03 for FL-22. Sources checked: 11. LLM verifications: 4. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-22T12:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:18:09.386Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
