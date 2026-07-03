@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:18:09.386Z",
-  "exportedAt": "2026-07-03T00:36:28.686Z",
+  "updatedAt": "2026-07-03T01:26:13.771Z",
+  "exportedAt": "2026-07-03T01:41:59.919Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-06-15",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1019,16 +1019,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-fl22-auto",
-      "startedAt": "2026-07-03T00:17:07.171Z",
-      "completedAt": "2026-07-03T00:18:09.386Z",
+      "startedAt": "2026-07-03T01:25:59.282Z",
+      "completedAt": "2026-07-03T01:26:13.771Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for FL-22. Sources checked: 11. LLM verifications: 4. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for FL-22. Sources checked: 11. LLM verifications: 3. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:18:09.386Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:26:13.771Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
