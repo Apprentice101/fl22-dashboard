@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T01:26:13.771Z",
-  "exportedAt": "2026-07-04T00:39:00.204Z",
+  "dataAsOf": "2026-07-08",
+  "updatedAt": "2026-07-08T06:23:14.262Z",
+  "exportedAt": "2026-07-08T06:27:46.736Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-08",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-08",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-08",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1018,17 +1018,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-03-fl22-auto",
-      "startedAt": "2026-07-03T01:25:59.282Z",
-      "completedAt": "2026-07-03T01:26:13.771Z",
+      "id": "run-2026-07-08-fl22-auto",
+      "startedAt": "2026-07-08T06:23:09.672Z",
+      "completedAt": "2026-07-08T06:23:14.262Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 11,
+      "sourcesChecked": 12,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for FL-22. Sources checked: 11. LLM verifications: 3. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for FL-22. Sources checked: 12. LLM verifications: 3. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T01:26:13.771Z",
+    "NEXT_REFRESH_AT": "2026-07-15T06:23:14.262Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
