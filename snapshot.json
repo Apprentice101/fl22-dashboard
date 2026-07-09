@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:36:31.284Z",
-  "exportedAt": "2026-07-08T20:34:36.994Z",
+  "exportedAt": "2026-07-09T17:03:19.122Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -776,30 +776,70 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-fl-dos-elections",
-        "label": "Florida Division of Elections — Official elections portal",
-        "url": "https://dos.fl.gov/elections/",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Florida elections hub: voter registration, election calendar, qualifying information, candidate data, and voting rules. Authoritative source for FL-22 election deadlines for the 2026 primary (Aug 18) and general (Nov 3).",
+        "url": "https://dos.fl.gov/elections/",
         "governingAuthority": "Florida Department of State",
         "sourceType": "official-state",
         "sourceId": "src-fl-dos-elections",
-        "lastVerified": "2026-06-15"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-fl-register",
-        "label": "registertovoteflorida.gov — Florida online voter registration",
-        "url": "https://registertovoteflorida.gov",
-        "description": "Register to vote, update your address, or change your party affiliation online. Primary registration deadline: July 20, 2026 (closed primary — party registration required). General election deadline: October 5, 2026. Florida does not have same-day registration.",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Florida county Supervisor of Elections directory — find your county's polling places.",
+        "url": "https://dos.fl.gov/elections/contacts/supervisor-of-elections/",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-doe",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official instructions and locations for returning vote-by-mail ballots via secure ballot intake stations (drop boxes) at early voting sites and office locations.",
+        "url": "https://browardvotes.gov/how-return-vote-mail-ballot",
+        "governingAuthority": "Broward County Supervisor of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-fl22-county",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Confirm your Florida voter registration status.",
+        "url": "https://registration.elections.myflorida.com/CheckVoterStatus",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-doe",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track a Florida vote-by-mail ballot from request through acceptance.",
+        "url": "https://registration.elections.myflorida.com/CheckVoterStatus",
+        "governingAuthority": "Florida Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-fl-doe",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Florida election results portal. FL-26 primary results (August 18, 2026) and general election results (November 3, 2026) will be posted here during and after canvass.",
+        "url": "https://results.elections.myflorida.com",
         "governingAuthority": "Florida Department of State",
         "sourceType": "official-state",
-        "sourceId": "src-fl-dos-register",
-        "lastVerified": "2026-06-15"
+        "sourceId": "src-fl-dos-elections",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-broward-soe",
         "label": "browardvotes.gov — Broward County Supervisor of Elections",
-        "url": "https://browardvotes.gov",
         "description": "Official elections portal for Broward County voters — the most populous county in FL-22 under HB 1-D (~345,595 district residents). Covers Weston, Parkland, and western Broward communities. Check precinct assignments, request VBM ballots, find early voting sites. Note: active domain is browardvotes.gov (browardsoe.org had access issues during June 2026 research).",
+        "url": "https://browardvotes.gov",
         "governingAuthority": "Broward County Supervisor of Elections",
         "sourceType": "official-county",
         "sourceId": "src-broward-soe",
@@ -808,8 +848,8 @@
       {
         "id": "res-palmbeach-soe",
         "label": "pbcelections.org — Palm Beach County Supervisor of Elections",
-        "url": "https://www.pbcelections.org",
         "description": "Official elections portal for Palm Beach County voters in FL-22 (~209,501 district residents in western portions: Wellington, Royal Palm Beach, Loxahatchee Groves, Belle Glade, Pahokee, South Bay). Check precinct assignments under new HB 1-D map, request VBM ballots, find early voting locations. Sara Baxter (FL-22 candidate) serves as Palm Beach County Mayor District 6 representing this area.",
+        "url": "https://www.pbcelections.org",
         "governingAuthority": "Palm Beach County Supervisor of Elections",
         "sourceType": "official-county",
         "sourceId": "src-palmbeach-soe",
@@ -818,8 +858,8 @@
       {
         "id": "res-collier-soe",
         "label": "colliervotes.gov — Collier County Supervisor of Elections",
-        "url": "https://www.colliervotes.gov",
         "description": "Official elections portal for Collier County voters in FL-22 (including Marco Island, Naples-area precincts, and Immokalee agricultural communities). Collier County is part of the new FL-22 under HB 1-D — voters who were previously in FL-26 or other districts should verify their updated district assignment.",
+        "url": "https://www.colliervotes.gov",
         "governingAuthority": "Collier County Supervisor of Elections — Melissa Blazier",
         "sourceType": "official-county",
         "sourceId": "src-collier-soe",
@@ -828,8 +868,8 @@
       {
         "id": "res-hendry-soe",
         "label": "hendrycountyelections.gov — Hendry County Supervisor of Elections",
-        "url": "https://www.hendrycountyelections.gov",
         "description": "Official elections portal for Hendry County voters in FL-22 (rural interior South Florida, including Clewiston and LaBelle). Hendry County is part of the new FL-22 under HB 1-D. Rural area with limited early voting infrastructure — check SOE site for site locations before Election Day.",
+        "url": "https://www.hendrycountyelections.gov",
         "governingAuthority": "Hendry County Supervisor of Elections",
         "sourceType": "official-county",
         "sourceId": "src-hendry-soe",
@@ -838,8 +878,8 @@
       {
         "id": "res-fl-dos-results",
         "label": "Florida Division of Elections — Election Results",
-        "url": "https://results.elections.myflorida.com",
         "description": "Official Florida election results portal. FL-22 primary results (August 18, 2026) and general election results (November 3, 2026) will be posted here after polls close at 7 PM. Results span all four FL-22 counties: Broward, Palm Beach, Collier, and Hendry.",
+        "url": "https://results.elections.myflorida.com",
         "governingAuthority": "Florida Department of State",
         "sourceType": "official-state",
         "sourceId": "src-fl-dos-elections",
@@ -848,8 +888,8 @@
       {
         "id": "res-fl-senate-hb1d",
         "label": "Florida Legislature — HB 1-D redistricting bill (2026)",
-        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
         "description": "Full text of Florida's 2026 mid-decade congressional redistricting bill (HB 1-D), signed May 4, 2026. Contains the new FL-22 district boundaries: western Broward County + western Palm Beach County + Hendry County + Collier County (including Marco Island). Old FL-22 (Frankel's Palm Beach seat) was renumbered FL-23.",
+        "url": "https://www.flsenate.gov/Session/Bill/2026D/1D",
         "governingAuthority": "Florida Legislature",
         "sourceType": "statutory",
         "sourceId": "src-fl-senate-hb1d",
@@ -858,8 +898,8 @@
       {
         "id": "res-ballotpedia-fl22",
         "label": "Ballotpedia — FL-22 district (use with caution — may show pre-HB-1-D data)",
-        "url": "https://ballotpedia.org/Florida%27s_22nd_Congressional_District",
         "description": "Nonpartisan reference page for FL-22. CAUTION: As of June 2026, Ballotpedia's page may still reflect pre-HB-1-D data showing Lois Frankel as incumbent with Cook PVI D+7 — those numbers applied to the OLD FL-22 (now renumbered FL-23). The NEW FL-22 is an open seat with approx. R+9 partisan lean. Verify data currency before relying on Ballotpedia for FL-22 candidate or partisan-lean information.",
+        "url": "https://ballotpedia.org/Florida%27s_22nd_Congressional_District",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-fl22",
@@ -868,8 +908,8 @@
       {
         "id": "res-democracy-docket",
         "label": "Democracy Docket — Equal Ground Education Fund v. Byrd (HB 1-D litigation)",
-        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
         "description": "Tracks active litigation challenging HB 1-D under Florida's Fair Districts Amendment. FL Supreme Court denied emergency relief June 10, 2026 (6-1). First DCA appeal ongoing. Merits trial status and any future injunction rulings that could affect FL-22 boundaries will be updated here.",
+        "url": "https://www.democracydocket.com/cases/florida-congressional-redistricting-challenge-equal-ground/",
         "governingAuthority": "Democracy Docket",
         "sourceType": "secondary",
         "sourceId": "src-democracy-docket",
