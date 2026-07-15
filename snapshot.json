@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:36:31.284Z",
-  "exportedAt": "2026-07-09T17:03:19.122Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:12:38.372Z",
+  "exportedAt": "2026-07-15T06:38:38.811Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -166,7 +166,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1055,20 +1055,40 @@
         "relevanceSummary": "Plaintiffs in Equal Ground Education Fund v. Byrd filed their opening brief with Florida's First District Court of Appeals on May 28, 2026, after Judge Joshua Hawkes denied a preliminary injunction on May 26. Plaintiffs simultaneously filed a motion to bypass the First DCA and go directly to the Florida Supreme Court. The Florida Supreme Court ultimately denied emergency relief on June 10 (6-1). The underlying case — challenging HB 1-D as a partisan gerrymander violating Florida's Fair Districts Amendment — remains active. Any ruling could affect whether the new FL-22 boundaries (including the district's open-seat status) stand through 2028.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0sn4w4s",
+        "headline": "Palm Beach Elections Office Mails Updated Voter Cards Ahead Of Primary",
+        "sourceName": "BocaNewsNow",
+        "url": "https://bocanewsnow.com/2026/07/09/palm-beach-elections-office-mails-updated-voter-cards-ahead-of-primary/",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "Palm Beach County is in FL-22, and this update matters because it tells voters to verify or update their registration details before the August primary. The article says voters can check or update information through the Voter Dashboard or by contacting the Supervisor of Elections office, which is directly relevant to registration and ballot readiness.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0s120zi",
+        "headline": "DCCC adds open CD 16, 22 races to 'Districts in Play' for November, quietly drops others",
+        "sourceName": "The Miami Times",
+        "url": "https://www.miamitimesonline.com/news/florida/dccc-adds-open-cd-16-22-races-to-districts-in-play-for-november-quietly-drops/article_0de47cb6-54e4-4c33-83af-2d0987a9cb48.html",
+        "publishedAt": "2026-06-25",
+        "relevanceSummary": "This article notes that Florida’s 22nd Congressional District is now listed by the DCCC as a 'District in Play' for November, signaling heightened attention and likely increased campaign filings and candidate activity that FL-22 voters may encounter as the general election approaches.[5]",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-fl22-auto",
-      "startedAt": "2026-07-08T19:36:27.876Z",
-      "completedAt": "2026-07-08T19:36:31.284Z",
+      "id": "run-2026-07-15-fl22-auto",
+      "startedAt": "2026-07-15T06:12:18.623Z",
+      "completedAt": "2026-07-15T06:12:38.372Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
-      "updatesCreated": 0,
+      "sourcesChecked": 11,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for FL-22. Sources checked: 12. LLM verifications: 3. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for FL-22. Sources checked: 11. LLM verifications: 3. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:36:31.284Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:12:38.372Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
