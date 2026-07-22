@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:12:38.372Z",
-  "exportedAt": "2026-07-15T06:38:38.811Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:27:12.692Z",
+  "exportedAt": "2026-07-22T06:49:57.201Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -166,7 +166,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1075,20 +1075,70 @@
         "relevanceSummary": "This article notes that Florida’s 22nd Congressional District is now listed by the DCCC as a 'District in Play' for November, signaling heightened attention and likely increased campaign filings and candidate activity that FL-22 voters may encounter as the general election approaches.[5]",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0k9h7s1",
+        "headline": "Florida's August 18 Primary: Deadlines, Early Voting and What Is on the Ballot",
+        "sourceName": "The Florida Press",
+        "url": "https://www.thefloridapress.com/news/floridas-august-18-primary-deadlines-early-voting-and-what-is-on-the-ballot",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "Details the statewide schedule for the August 18 primary, including the July 20 deadline to register or change party affiliation, August 6 deadline to request vote-by-mail ballots, mandatory early voting from August 8–15, and election day hours, all directly impacting FL-22 voters’ options.[8]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0hc2w59",
+        "headline": "Key dates and things to know for the 2026 Florida elections",
+        "sourceName": "WUFT",
+        "url": "https://www.wuft.org/2026-07-17/2026-florida-elections-key-dates-need-to-know",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "Provides statewide 2026 election deadlines for voter registration, mail ballot requests and returns, and outlines acceptable voter ID types and polling place rules under Florida law, all of which govern voting procedures for FL-22 residents.[7]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0tc1g63",
+        "headline": "How to make sure you are registered to vote in Florida's August election",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/2026/07/16/how-to-make-sure-you-are-registered-to-vote-in-floridas-august-election/",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "Explains how Florida voters can register, update their registration, and check status online or in person, and highlights the statewide \"book closing\" deadline of July 20 for the August primary and October 5 for the November general, which apply directly to FL-22 voters.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0b006e2",
+        "headline": "Hillsborough tests voting machines, reminds voters of key Florida primary deadlines",
+        "sourceName": "FOX 13 News Tampa Bay",
+        "url": "https://www.fox13news.com/news/hillsborough-tests-voting-machines-voters-florida-primary-deadlines",
+        "publishedAt": "2026-07-15",
+        "relevanceSummary": "Reports on pre-election testing of voting machines in Hillsborough County and reiterates statewide rules that vote-by-mail ballots must be received by the Supervisor of Elections by 7 p.m. on primary day, illustrating county-level administration practices and deadlines that also apply to FL-22 voters.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0wlsbbo",
+        "headline": "2026 primary election: County-by-county voter’s guide – here’s how to cast your ballot",
+        "sourceName": "FOX 13 News Tampa Bay",
+        "url": "https://www.fox13news.com/news/2026-primary-election-county-by-county-voters-guide-heres-how-cast-ballot",
+        "publishedAt": "2026-07-14",
+        "relevanceSummary": "Offers a Florida-wide guide to casting ballots in the 2026 primary, including the deadline to request a mailed ballot (5 p.m. on the 12th day before the election), mailing timelines from supervisors of elections, and the requirement that all ballots be received by 7 p.m. on election day.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-fl22-auto",
-      "startedAt": "2026-07-15T06:12:18.623Z",
-      "completedAt": "2026-07-15T06:12:38.372Z",
+      "id": "run-2026-07-22-fl22-auto",
+      "startedAt": "2026-07-22T06:26:46.394Z",
+      "completedAt": "2026-07-22T06:27:12.692Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 2,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for FL-22. Sources checked: 11. LLM verifications: 3. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for FL-22. Sources checked: 11. LLM verifications: 4. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:12:38.372Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:27:12.692Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
