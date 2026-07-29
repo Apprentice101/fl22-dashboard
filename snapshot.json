@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:27:12.692Z",
-  "exportedAt": "2026-07-22T21:15:01.805Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:29:24.117Z",
+  "exportedAt": "2026-07-29T06:53:14.763Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -166,7 +166,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1125,20 +1125,70 @@
         "relevanceSummary": "Offers a Florida-wide guide to casting ballots in the 2026 primary, including the deadline to request a mailed ballot (5 p.m. on the 12th day before the election), mailing timelines from supervisors of elections, and the requirement that all ballots be received by 7 p.m. on election day.[3]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-07dwu8y",
+        "headline": "House passes stock trading ban for Congress members with bipartisan support that includes new voter ID provision",
+        "sourceName": "CBS12 (West Palm Beach)",
+        "url": "https://cbs12.com/topic/Voter%20ID%20provision",
+        "publishedAt": "2026-07-28",
+        "relevanceSummary": "This article reports that the U.S. House passed a stock-trading ban for members of Congress which also includes a new voter ID provision, potentially tightening identification requirements for voting by mail or in person; FL-22 voters should track this because federal voter-ID rules could change ahead of the November general.[11][4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0bsc2pv",
+        "headline": "House Passes 232-198 Voter ID Bill Tied to Congressional SAVE America Act",
+        "sourceName": "Zetik News",
+        "url": "https://www.zetik.com/news/article/story_id-p008-170574",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This piece details House passage of a national voter ID bill expanding photo ID requirements to mail-in ballots and linking them to proof-of-citizenship rules for voter registration, measures that could alter how Florida voters—including those in FL-22—must document identity and citizenship for absentee voting.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0lggwz6",
+        "headline": "An index of Florida’s competitive US House races in 2026",
+        "sourceName": "Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/22/florida-congressional-seats-redistricting-competitive-soto-castor/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This article notes that Florida’s 22nd Congressional District is now an open seat after redistricting and incumbent Lois Frankel’s decision to run in the 23rd, highlighting candidate qualification status and the procedural implications of the new district lines for FL-22 voters in the 2026 general.[6]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0kkdi58",
+        "headline": "Election updates from the Tampa Bay Times: Florida’s new voting map will cost taxpayers, add work for elections supervisors",
+        "sourceName": "Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/florida-politics/elections/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This Florida-focused elections update explains that the state’s new voting map after redistricting will increase administrative burdens and costs for county elections supervisors, affecting how ballots are prepared, polling locations are assigned, and districts like FL-22 are managed for the November general.[5]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-02isczl",
+        "headline": "Palm Beach County August primary sample ballots released after redistricting delay",
+        "sourceName": "Electionline Daily News (summarizing Palm Beach County Supervisor of Elections)",
+        "url": "https://electionline.org/news/",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "This item reports that Palm Beach County, which includes part of FL-22, released August primary sample ballots following delays tied to redistricting, informing voters about their new ballot styles, contests, and district assignments ahead of the election.[3]",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-fl22-auto",
-      "startedAt": "2026-07-22T06:26:46.394Z",
-      "completedAt": "2026-07-22T06:27:12.692Z",
+      "id": "run-2026-07-29-fl22-auto",
+      "startedAt": "2026-07-29T06:29:07.136Z",
+      "completedAt": "2026-07-29T06:29:24.117Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for FL-22. Sources checked: 11. LLM verifications: 4. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for FL-22. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:27:12.692Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:29:24.117Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
