@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:29:24.117Z",
-  "exportedAt": "2026-07-29T06:53:14.763Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:25:06.357Z",
+  "exportedAt": "2026-08-05T06:46:57.670Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1175,20 +1175,50 @@
         "relevanceSummary": "This item reports that Palm Beach County, which includes part of FL-22, released August primary sample ballots following delays tied to redistricting, informing voters about their new ballot styles, contests, and district assignments ahead of the election.[3]",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0xrgen5",
+        "headline": "Florida lawmakers advance bill to require proof of citizenship for voter registration",
+        "sourceName": "Election Desk",
+        "url": "https://electiondesk.org/tag/florida/",
+        "publishedAt": "2026-07-31",
+        "relevanceSummary": "This statewide legislative development is relevant to FL-22 voters because Florida election-law changes apply directly to district voters. The report says lawmakers are advancing House Bill 985, which would require citizenship verification for voter registration and stricter ID rules.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-066v2lw",
+        "headline": "Florida charges Canadian citizen with illegally voting in 7 general elections over 20 years",
+        "sourceName": "WJXT News4JAX",
+        "url": "https://www.news4jax.com/news/local/2026/07/30/florida-charges-canadian-citizen-with-illegally-voting-in-7-general-elections-over-20-years/",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "This statewide enforcement story matters to FL-22 voters because Florida election rules apply across the state, including voter eligibility and lawful voting in general elections. The report says state officials charged a Melbourne man with voting as a non-citizen elector and false affirmation, underscoring current eligibility enforcement.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0bywc7f",
+        "headline": "CD 22 primary candidate field spans 9 contenders, millions in campaign cash",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/811274-cd-22-primary-candidate-field-spans-9-contenders-millions-in-campaign-cash/",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "This is directly relevant to FL-22 voters because it confirms that nine candidates will appear on the August 18 primary ballot and that the general election is scheduled for November 3. It helps voters verify the active candidate field and key election dates for the district.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-fl22-auto",
-      "startedAt": "2026-07-29T06:29:07.136Z",
-      "completedAt": "2026-07-29T06:29:24.117Z",
+      "id": "run-2026-08-05-fl22-auto",
+      "startedAt": "2026-08-05T06:24:54.332Z",
+      "completedAt": "2026-08-05T06:25:06.357Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 11,
-      "updatesCreated": 5,
+      "sourcesChecked": 12,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for FL-22. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for FL-22. Sources checked: 12. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:29:24.117Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:25:06.357Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
