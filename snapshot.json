@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:25:06.357Z",
-  "exportedAt": "2026-08-05T06:46:57.670Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:28:24.920Z",
+  "exportedAt": "2026-08-12T05:46:35.106Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1205,20 +1205,60 @@
         "relevanceSummary": "This is directly relevant to FL-22 voters because it confirms that nine candidates will appear on the August 18 primary ballot and that the general election is scheduled for November 3. It helps voters verify the active candidate field and key election dates for the district.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0767nj0",
+        "headline": "Askar, Dandiya, Carbonara ignore Naples Congressional District candidate questionnaire",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/askar-dandiya-carbonara-ignore-naples-134624156.html",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "The story confirms the FL-22 candidates are competing in the upcoming general election and notes that the Republican and Democratic winners will face each other in the Nov. 3 general election. It also reiterates that voters can participate by mail or during early voting, making it a modestly useful procedural reference for district voters.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-02540mk",
+        "headline": "FL Congressional District 22 Candidate Michael Thompson ...",
+        "sourceName": "Naples Daily News",
+        "url": "https://www.naplesnews.com/story/news/politics/elections/2026/08/08/congressional-district-22-candidate-michael-thompson-qa-in-south-florida/90927627007/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This article gives FL-22 voters practical election details, including that Republicans can vote by mail or in person during early voting beginning Aug. 8, or on election day, Aug. 18. It also notes Florida is a closed primary state, meaning only registered Republicans can vote in that primary.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0im4nnx",
+        "headline": "Seeing Red: The GOP Holds Voter Registration Advantage in Key Florida Districts",
+        "sourceName": "NRCC",
+        "url": "https://www.nrcc.org/2026/08/06/seeing-red-the-gop-holds-voter-registration-advantage-in-key-florida-districts/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This item reports new voter-registration data for the open FL-22, saying Republicans hold an 8.12% registration advantage. While it is framed as campaign messaging, the registration figures are directly relevant to understanding the district’s voter-file landscape.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0azyl5p",
+        "headline": "Michael Carbonara Drops in Polls Over Sexual Assault Case",
+        "sourceName": "Floridian Press",
+        "url": "https://floridianpress.com/2026/08/michael-carbonara-drops-in-polls-over-sexual-assault-case/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "The piece includes operational election information for FL-22 voters, stating early voting for Palm Beach, Collier, and Broward counties opened Aug. 8, with Hendry County opening Aug. 3, and giving county-specific early-voting end dates. That makes it useful for voters trying to confirm when and where to cast a ballot in the district.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-fl22-auto",
-      "startedAt": "2026-08-05T06:24:54.332Z",
-      "completedAt": "2026-08-05T06:25:06.357Z",
+      "id": "run-2026-08-12-fl22-auto",
+      "startedAt": "2026-08-12T05:28:02.714Z",
+      "completedAt": "2026-08-12T05:28:24.920Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
-      "updatesCreated": 3,
+      "sourcesChecked": 11,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for FL-22. Sources checked: 12. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:25:06.357Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:28:24.920Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
