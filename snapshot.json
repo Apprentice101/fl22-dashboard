@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:28:24.920Z",
-  "exportedAt": "2026-08-12T05:46:35.106Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:35:14.584Z",
+  "exportedAt": "2026-08-19T05:06:40.777Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -166,7 +166,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1245,20 +1245,100 @@
         "relevanceSummary": "The piece includes operational election information for FL-22 voters, stating early voting for Palm Beach, Collier, and Broward counties opened Aug. 8, with Hendry County opening Aug. 3, and giving county-specific early-voting end dates. That makes it useful for voters trying to confirm when and where to cast a ballot in the district.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-05nx6p5",
+        "headline": "Florida Primary Election 2026 Today: Candidates, where to vote, polling place locator, what to bring; here’s the complete voting guide",
+        "sourceName": "Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/florida-primary-election-2026-today-candidates-where-to-vote-polling-place-locator-what-to-bring-heres-the-complete-voting-guide/articleshow/133313373.cms",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This comprehensive guide explains how Florida voters can locate their polling place, reiterates that they must vote at their assigned location, details vote-by-mail deadlines and secure drop box returns, and restates the requirement for current, valid photo ID with signature, providing FL-22 voters with a consolidated overview of election procedures.[11]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0l1d032",
+        "headline": "Florida primary election 2026: Everything you need to know",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/2026/08/18/florida-primary-election-today-everything-you-need-to-know/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This explainer emphasizes the need to be registered before voting and to bring a current, valid photo and signature ID to the polling place, reinforcing statewide voter-registration and voter-ID requirements that apply to all in-person voters in FL-22.[7]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0880qah",
+        "headline": "Today is Florida primary election day. Here's what voters need to know",
+        "sourceName": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2026/08/18/florida-primary-election-today-voting-what-to-bring/91349069007/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This statewide guide covers polling hours, the requirement to vote at your assigned polling location, acceptable forms of photo ID with signature, and vote-by-mail return rules including use of secure drop boxes at county elections offices, giving FL-22 voters practical instructions for both in-person and mail voting.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0koit7j",
+        "headline": "Here's the memo: Primary Election Day 2026",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/memo-primary-election-day-2026-040549570.html",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This article details Florida’s voter-ID requirements, listing acceptable photo IDs, explaining provisional ballot procedures when a voter lacks ID, and stressing that votes must be cast by registered voters in their proper precinct—rules that directly control in-person voting in FL-22.[3]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0bqr2fu",
+        "headline": "Primary election 2026: Here's how to cast a ballot in the Florida primary",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/primary-election-2026-heres-cast-095630729.html",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This guide explains key voting procedures for Florida’s primary, including that mail-in ballots must be physically received by county election officials by 7 p.m. on August 18, a deadline and mail-ballot rule that applies to all FL-22 voters using vote-by-mail.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-01f0adk",
+        "headline": "Florida primary voter guide: Polling locations, hours, what you need to vote",
+        "sourceName": "FOX 35 Orlando",
+        "url": "https://www.fox35orlando.com/news/florida-primary-voting-guide-2026",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This voter guide explains Florida’s closed-primary rules, the July 20 voter registration deadline, polling hours, and acceptable IDs for voting, helping FL-22 voters understand party-based ballot access, registration timing, and what they must bring to the polls.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0gsoue9",
+        "headline": "Florida Secretary of State Cord Byrd Issues Election Readiness Update for the August 18 Primary Election",
+        "sourceName": "Florida Department of State",
+        "url": "https://dos.fl.gov/communications/press-releases/2026/florida-secretary-of-state-cord-byrd-issues-election-readiness-update-for-the-august-18-primary-election/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This statewide update explains Florida’s Election Day procedures, including polling hours (7 a.m.–7 p.m.), the requirement that voters vote at their assigned precinct, and the need for a current and valid photo ID at the polls, all of which directly govern how FL-22 voters cast ballots in person.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-061yvf6",
+        "headline": "Early voting ends soon. How to vote before Tuesday's Florida primary",
+        "sourceName": "AOL",
+        "url": "https://www.aol.com/articles/early-voting-ends-soon-vote-185719000.html",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This article outlines Florida’s mandatory early voting period (August 8–15) and notes that the deadline to request a mail-in ballot for the primary has passed, information that shapes early voting and vote-by-mail options for FL-22 voters ahead of Election Day.[8]",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-fl22-auto",
-      "startedAt": "2026-08-12T05:28:02.714Z",
-      "completedAt": "2026-08-12T05:28:24.920Z",
+      "id": "run-2026-08-19-fl22-auto",
+      "startedAt": "2026-08-19T04:34:36.575Z",
+      "completedAt": "2026-08-19T04:35:14.584Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 11,
-      "updatesCreated": 4,
+      "sourcesChecked": 12,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for FL-22. Sources checked: 12. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:28:24.920Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:35:14.584Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
