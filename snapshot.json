@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:35:14.584Z",
-  "exportedAt": "2026-08-19T05:06:40.777Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:38:37.899Z",
+  "exportedAt": "2026-08-26T05:14:32.179Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1325,20 +1325,100 @@
         "relevanceSummary": "This article outlines Florida’s mandatory early voting period (August 8–15) and notes that the deadline to request a mail-in ballot for the primary has passed, information that shapes early voting and vote-by-mail options for FL-22 voters ahead of Election Day.[8]",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0yuaaay",
+        "headline": "Charlotte County Elections, FL | Official Website",
+        "sourceName": "Charlotte County Supervisor of Elections",
+        "url": "https://www.soecharlottecountyfl.gov/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Charlotte County’s elections calendar shows operational deadlines such as when domestic vote‑by‑mail ballots are sent, the last day to request a vote‑by‑mail ballot, and the early voting period, offering a concrete example of how Florida counties implement statewide mail‑ballot and early‑voting rules that also govern procedures for FL‑22 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0mvatbk",
+        "headline": "Vote-By-Mail Ballot",
+        "sourceName": "Indian River County Supervisor of Elections",
+        "url": "https://voteindianriver.gov/election_information/vote_by_mail_ballot/index.php",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "Indian River County’s vote-by-mail guidance explains Florida’s current mail-ballot request rules, including that any registered voter may vote by mail, requests can be made online, in writing, by phone, or in person, and that the deadline for a mailed vote-by-mail request is 5 p.m. on the 12th day before an election, illustrating the procedures and identification requirements FL-22 voters must follow for mail ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0su9mw8",
+        "headline": "2026 General Election",
+        "sourceName": "Flagler County Supervisor of Elections",
+        "url": "https://www.flaglerelections.gov/Elections/2026-General-Election",
+        "publishedAt": "2026-08-23",
+        "relevanceSummary": "Flagler County’s 2026 General Election page details key procedures for all Florida voters, including the deadline to request a vote-by-mail ballot (October 22, 2026 at 5 p.m.), requirements that mail ballots be received by 7 p.m. on Election Day, early voting dates and hours (October 19–31, 10 a.m.–6 p.m.), and the rule that voters must vote at their assigned precinct on Election Day—rules that apply statewide and are directly relevant to FL-22 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0pk7qw7",
+        "headline": "Marco Island bond referendum headed for recount after 1-vote margin",
+        "sourceName": "Florida Politics",
+        "url": "https://floridapolitics.com/archives/815945-marco-island-bond-referendum-headed-for-recount-after-1-vote-margin/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Reporting on a one‑vote margin bond referendum in Marco Island, this article notes that the county canvassing board will first conduct a public Logic and Accuracy Test of tabulation equipment before a machine recount at the Collier County elections office, providing a concrete example of Florida’s recount and equipment‑testing rules that would also apply to tight contests involving FL‑22.",
+        "tag": "recount",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0ovelg6",
+        "headline": "Public Notice: Canvassing Board Recess - August 20, 2026",
+        "sourceName": "Orange County Supervisor of Elections",
+        "url": "https://voteorangefl.gov/public-notice-canvassing-board-recess-august-20-2026/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Orange County’s public notice describes canvassing‑board activities including canvassing provisional and duplicated ballots, preparing unofficial results by the statutory deadline, and ordering recounts if needed, illustrating Florida’s canvass and recount procedures that will also govern how votes from FL‑22 are reviewed and, if necessary, recounted in close races.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0tb5f3u",
+        "headline": "Lee County Supervisor of Elections begins mailing 2026 sample ballots",
+        "sourceName": "Lee County Supervisor of Elections",
+        "url": "https://www.lee.vote/CivicAlerts.aspx?AID=42",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Lee County’s announcement that it has begun mailing sample ballots for the August 18 primary explains that these mailings include early‑voting dates, times, locations, and information on voting by mail and on Election Day, demonstrating how Florida counties communicate ballot and polling‑place procedures that FL‑22 voters can expect from their own local election offices.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0ybt45h",
+        "headline": "Calendar • Deadline - Mail and Provisional Ballot Cures",
+        "sourceName": "Pinellas County Supervisor of Elections",
+        "url": "https://www.votepinellas.gov/Calendar.aspx?EID=763",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Pinellas County’s notice explains Florida’s cure procedures and deadlines, stating that voters have until 5 p.m. on August 20, 2026 to submit a cure affidavit or provide proof of eligibility for mail and provisional ballots under F.S. 101.048(6)(b), illustrating statewide signature‑cure and provisional‑ballot rules that also govern how FL‑22 voters can fix problems with their ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0kqmnwv",
+        "headline": "What the Primary Revealed About Florida's Election Machinery",
+        "sourceName": "Florida Press",
+        "url": "https://www.thefloridapress.com/news/what-the-primary-revealed-about-floridas-election-machinery",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This explainer outlines Florida’s three voting methods (in‑person on Election Day, early voting, and vote‑by‑mail) and highlights that vote‑by‑mail requests now expire after each general election cycle instead of remaining standing, meaning FL‑22 voters who previously relied on an ongoing mail‑ballot request must renew it to receive a ballot for the November election.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-fl22-auto",
-      "startedAt": "2026-08-19T04:34:36.575Z",
-      "completedAt": "2026-08-19T04:35:14.584Z",
+      "id": "run-2026-08-26-fl22-auto",
+      "startedAt": "2026-08-26T04:38:08.579Z",
+      "completedAt": "2026-08-26T04:38:37.899Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
+      "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for FL-22. Sources checked: 12. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:35:14.584Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:38:37.899Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
