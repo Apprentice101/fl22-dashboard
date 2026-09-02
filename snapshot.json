@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:38:37.899Z",
-  "exportedAt": "2026-08-26T05:14:32.179Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:24:20.323Z",
+  "exportedAt": "2026-09-02T09:08:11.507Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1405,20 +1405,100 @@
         "relevanceSummary": "This explainer outlines Florida’s three voting methods (in‑person on Election Day, early voting, and vote‑by‑mail) and highlights that vote‑by‑mail requests now expire after each general election cycle instead of remaining standing, meaning FL‑22 voters who previously relied on an ongoing mail‑ballot request must renew it to receive a ballot for the November election.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0afxdwj",
+        "headline": "Hernando County SOE, FL | Official Website",
+        "sourceName": "Hernando County Supervisor of Elections",
+        "url": "https://www.hernandovotes.gov/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "The Hernando County elections homepage lists key statewide 2026 primary deadlines such as last day to register or change party, the deadline to request vote‑by‑mail ballots, the early voting period, and guidance on mailing ballots with sufficient time for delivery.[10] While county‑specific, these deadlines and recommendations are set by Florida law and mirror what FL‑22 voters must observe for registration, mail‑ballot requests, and early voting.[10]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0o1gjxs",
+        "headline": "2026 Primary Election",
+        "sourceName": "Flagler County Supervisor of Elections",
+        "url": "https://www.flaglerelections.gov/Elections/Past-Elections/2026-Primary-Election",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This notice for the 2026 primary outlines Florida procedures that also apply to the general election, including deadlines to request vote‑by‑mail ballots, early voting dates and hours, and rules requiring voters to vote in their assigned precinct with polls open 7 a.m. to 7 p.m.[7] The timelines and precinct‑based voting rules provide a useful procedural template for FL‑22 voters as counties in the district follow the same statutory framework.[7]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0svseby",
+        "headline": "Early Voting - Elections",
+        "sourceName": "Flagler County Supervisor of Elections",
+        "url": "https://www.flaglerelections.gov/Elections/How-to-Vote/Early-Voting",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This county‑level elections page describes Florida‑law requirements for acceptable photo and signature identification for in‑person voting and explains the use and monitoring of secure ballot intake stations (drop boxes) at early voting sites.[4] Although focused on Flagler County, the described ID standards and secure drop‑box practices reflect statewide rules and typical county implementation that are relevant precedent for FL‑22 voters.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0lzgg7c",
+        "headline": "Florida mail voting on track despite Trump's attempt to limit ...",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/2026/08/30/florida-mail-voting-still-track-despite-supreme-court-rulings/91488189007/",
+        "publishedAt": "2026-08-30",
+        "relevanceSummary": "This article explains that recent federal actions and court rulings have not changed Florida’s vote‑by‑mail rules, and the Florida Department of State confirms that existing safeguards and procedures for requesting and returning mail ballots remain in effect for all Florida voters, including those in FL-22.[1] This is directly relevant because it reassures FL-22 voters that their options and requirements for mail voting are unchanged heading into the general election.[1]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0fgi2h2",
+        "headline": "2026 General Election - Logic and Accuracy Test Public ...",
+        "sourceName": "Palm Beach County Supervisor of Elections",
+        "url": "https://www.votepalmbeach.gov/m/newsflash/home/detail/105",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This public notice announces logic and accuracy testing of voting equipment for the 2026 general election in Palm Beach County, one of the counties in FL‑22, demonstrating how the county will test machines before Election Day.[15] This matters for FL‑22 voters because it describes a key local election‑administration step that underpins the security and reliability of the voting system they will use in November.[15]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0ut72gg",
+        "headline": "‘Point of no return': Elections supervisors bracing for any last minute vote-by-mail changes",
+        "sourceName": "WCTV",
+        "url": "https://www.wctv.tv/2026/08/28/point-no-return-elections-supervisors-bracing-any-last-minute-vote-by-mail-changes/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Florida county supervisors of elections describe timelines for mailing ballots and their preparations for potential late changes to vote‑by‑mail rules, noting that mail ballots are scheduled to begin going out statewide on September 24.[2] FL‑22 voters benefit from understanding these statewide timelines and the possibility of administrative adjustments that could affect when they receive and return mail ballots.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0g5yhd7",
+        "headline": "Seminole County Canvassing Board Certifies Official Results of 2026 Primary Election",
+        "sourceName": "Seminole County Supervisor of Elections",
+        "url": "https://voteseminole.gov/news/seminole-county-canvassing-board-certifies-official-results-of-2026-primary-election/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This release details statewide canvassing and post‑election procedures under Florida law, including deadlines for official returns, signature‑cure rules for provisional and vote‑by‑mail ballots, recount thresholds, mandatory post‑election audits, and state certification timelines.[8] These legal and administrative procedures apply across Florida, so FL‑22 voters whose ballots have issues or who are following certification of federal races in their district are governed by the same statutes.[8]",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0ajdcjw",
+        "headline": "Florida",
+        "sourceName": "Vet the Vote",
+        "url": "https://www.vetthe.vote/florida",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This voter‑information page outlines Florida’s current in‑person voter ID requirements, listing acceptable photo IDs with signatures, and explains statewide vote‑by‑mail rules, including ways to request ballots, return options (mail, secure drop box, voting locations), and deadlines for the 2026 primary and general.[3] Because these rules apply uniformly across Florida, they directly govern how FL‑22 voters must show ID at the polls and handle mail ballots for the November election.[3]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-fl22-auto",
-      "startedAt": "2026-08-26T04:38:08.579Z",
-      "completedAt": "2026-08-26T04:38:37.899Z",
+      "id": "run-2026-09-02-fl22-auto",
+      "startedAt": "2026-09-02T08:23:14.756Z",
+      "completedAt": "2026-09-02T08:24:20.323Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:38:37.899Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:24:20.323Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
