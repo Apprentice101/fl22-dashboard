@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:38:11.210Z",
-  "exportedAt": "2026-09-09T09:18:42.780Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:05:38.880Z",
+  "exportedAt": "2026-09-16T09:50:13.204Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1565,20 +1565,100 @@
         "relevanceSummary": "Focused on Miami-Dade and Broward, this article explains Florida’s statewide mail-ballot request deadline (5 p.m., 12 days before the election), required identifiers to request a ballot, and options for returning ballots via mail or secure drop boxes at early voting sites, offering procedural details that mirror rules affecting FL-22 voters in neighboring South Florida counties.[7]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0m0tfke",
+        "headline": "National Voter Registration Day: How to vote in Florida",
+        "sourceName": "FOX 35 Orlando",
+        "url": "https://www.fox35orlando.com/news/national-voter-registration-day-how-vote-florida",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide voter guide explains the identification and Social Security information needed to register to vote in Florida, outlines online, in‑person, and mail registration options, and reiterates key statewide deadlines for mailing vote‑by‑mail ballots to voters, helping FL-22 voters understand both registration and mail‑ballot timelines.[12]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0u2udmj",
+        "headline": "On National Voter Registration Day, how to make sure you're eligible to vote in Florida",
+        "sourceName": "ClickOrlando",
+        "url": "https://www.clickorlando.com/election-2026/2026/09/15/on-national-voter-registration-day-how-to-make-sure-youre-eligible-to-vote-in-florida/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This article walks through where and how Floridians can register to vote (online, by mail, or in person) and explains the 29‑day 'book closing' deadline before an election, along with ID and Social Security number requirements for registration, giving FL-22 voters practical steps to ensure they are eligible for the November general.[9]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0dojf2k",
+        "headline": "Supreme Court clears way for mail-in ballots. When you can expect yours",
+        "sourceName": "Pensacola News Journal",
+        "url": "https://www.pnj.com/story/news/politics/elections/2026/09/15/vote-by-mail-ballots-in-escambia-santa-rosa-arriving-late-september/91776237007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This piece explains that a Sept. 14 Supreme Court decision leaves Florida’s existing vote‑by‑mail practices in place through the November election and details statewide rules on who may vote by mail, request deadlines, and required voter information when requesting a ballot, all of which apply to FL-22 voters.[5][6]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-099dv3g",
+        "headline": "Vote-by-mail key dates, upcoming deadlines in Florida",
+        "sourceName": "Florida Today",
+        "url": "https://www.floridatoday.com/story/news/politics/elections/2026/09/15/florida-vote-by-mail-dates-deadlines/91771827007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide rundown explains when Florida counties must send vote-by-mail ballots to domestic and overseas voters, giving FL-22 voters clear expectations for when they should receive their mail ballots and the legal mailing windows election offices must follow.[3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0vau8ti",
+        "headline": "3 deadlines every Florida voter should know right now",
+        "sourceName": "Daytona Beach News-Journal",
+        "url": "https://www.news-journalonline.com/story/news/politics/elections/2026/09/15/florida-general-election-voter-deadlines/91771460007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This article outlines statewide Florida deadlines for requesting and returning vote-by-mail ballots, as well as in-person Election Day polling hours and the requirement to vote at your assigned precinct, which directly govern how FL-22 voters can cast ballots in November.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-06ej5mz",
+        "headline": "'Ridiculous': Postal Service rejects Leon mail ballot envelopes. Here's why",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/09/10/postal-service-rejects-florida-county-mail-ballots-heres-why-leon-county-trump-voting/91656140007/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "Reporting on the Postal Service’s rejection of Leon County’s mail‑ballot envelopes and local guidance to use secure ballot intake stations or hand‑delivery if voters are concerned about mail issues highlights administrative and mail‑handling challenges that could affect ballot return options and practices statewide, including for FL-22 voters.[10][8]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0bilps5",
+        "headline": "Early voting, key election deadlines weeks away in Florida, Georgia - What voters need to know now",
+        "sourceName": "News4JAX",
+        "url": "https://www.news4jax.com/vote-2026/2026/09/10/early-voting-key-election-deadlines-weeks-away-in-florida-georgia-what-voters-needs-to-know-now/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This explainer lists Florida’s voter registration deadline to participate in the general election, the October 22 deadline to request a vote‑by‑mail ballot from county Supervisors of Elections, Election Day polling hours, and the requirement to show accepted photo ID or vote provisionally, all of which govern how FL-22 voters must register and vote.[14]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0f0nsiu",
+        "headline": "Mail voting is popular in Florida, despite federal scrutiny",
+        "sourceName": "Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/09/florida-mail-ballot-voting-elections-courts/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "This article describes Florida’s three voting methods (early in‑person, mail, and Election Day in‑person), confirms that no excuse is required to request a mail ballot, and reports that state officials do not expect new U.S. Postal Service rules to disrupt Florida’s ballot‑mailing schedule, informing FL-22 voters about mail‑ballot reliability and options.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-fl22-auto",
-      "startedAt": "2026-09-09T08:37:37.932Z",
-      "completedAt": "2026-09-09T08:38:11.210Z",
+      "id": "run-2026-09-16-fl22-auto",
+      "startedAt": "2026-09-16T09:04:53.035Z",
+      "completedAt": "2026-09-16T09:05:38.880Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for FL-22. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for FL-22. Sources checked: 11. LLM verifications: 4. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:38:11.210Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:05:38.880Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
