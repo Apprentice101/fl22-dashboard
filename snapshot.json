@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:06:00.720Z",
-  "exportedAt": "2026-09-23T09:36:30.525Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:12:51.418Z",
+  "exportedAt": "2026-09-30T10:36:21.721Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1725,20 +1725,70 @@
         "relevanceSummary": "The statewide report explains how to request a mail ballot, the identification information used for the request, the October 22 request deadline, and the 7 p.m. Election Day receipt deadline. It also describes secure drop-box availability at elections offices and designated early-voting sites.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0hw4bq1",
+        "headline": "Florida provides nearly 1.47 million vote-by-mail ballots",
+        "sourceName": "Caribbean National Weekly",
+        "url": "https://www.caribbeannationalweekly.com/posts/florida-provides-147-million-vote-by-mail-ballots-ahead-of-election",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The statewide report describes Florida’s distribution of nearly 1.47 million vote-by-mail ballots ahead of the general election and includes Palm Beach County figures. This provides statewide context for FL-22 voters’ mail-ballot availability.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0hub893",
+        "headline": "How Do I Vote in Florida?",
+        "sourceName": "Southern Poverty Law Center",
+        "url": "https://www.splcenter.org/resources/guides/florida-voting-guide-2026/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "This statewide Florida voting guide explains that registered voters may request vote-by-mail ballots and must provide a Florida driver’s-license number, Florida identification-card number, or the last four digits of their Social Security number. It lists October 22 at 5 p.m. as the general-election request deadline.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0rqjkff",
+        "headline": "Palm Beach County sends nearly 148,000 mail-in ballots for 2026 general election",
+        "sourceName": "CBS12",
+        "url": "https://cbs12.com/news/local/palm-beach-county-mail-in-ballots-florida-voters-general-election-palm-beach-county-supervisor-of-elections-office-governors-race-florida-news",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Palm Beach County voters, including FL-22 voters, are receiving requested mail ballots. The county verifies a request using the voter’s identifying information, and the article reports an October 22 at 5 p.m. request deadline and a 7 p.m. Election Day receipt deadline.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0pg4b0p",
+        "headline": "Voting By Mail Is Still Very Much A Thing In Palm Beach County — Ballots Sent",
+        "sourceName": "BocaNewsNow.com",
+        "url": "https://bocanewsnow.com/2026/09/25/voting-by-mail-is-still-very-much-a-thing-in-palm-beach-county-ballots-sent/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Palm Beach County, which includes FL-22, mailed more than 146,000 requested vote-by-mail ballots for the 2026 general election. The article explains return options, including prepaid mail, elections offices, secure ballot intake stations, and early-voting locations, plus the Election Day receipt deadlines.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-04ja3l5",
+        "headline": "First mailings of vote-by-mail ballots to domestic voters for Nov. 3 general election start to go out",
+        "sourceName": "WGCU",
+        "url": "https://www.wgcu.org/elections/2026-09-24/first-mailings-of-vote-by-mail-ballots-to-domestic-voters-for-nov-3-general-election-start-to-go-out",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Florida counties began mailing requested domestic vote-by-mail ballots on September 24, with mailings required between September 24 and October 1. The article states that requests expire and must be renewed, the general-election request deadline is October 22 at 5 p.m., and voted ballots must physically arrive by 7 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-fl22-auto",
-      "startedAt": "2026-09-23T09:05:32.262Z",
-      "completedAt": "2026-09-23T09:06:00.720Z",
+      "id": "run-2026-09-30-fl22-auto",
+      "startedAt": "2026-09-30T10:12:35.670Z",
+      "completedAt": "2026-09-30T10:12:51.418Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 8,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:06:00.720Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:12:51.418Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
