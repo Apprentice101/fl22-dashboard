@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:12:51.418Z",
-  "exportedAt": "2026-09-30T10:36:21.721Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:48:21.252Z",
+  "exportedAt": "2026-10-07T11:11:40.467Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -166,7 +166,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-10-07",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1775,20 +1775,100 @@
         "relevanceSummary": "Florida counties began mailing requested domestic vote-by-mail ballots on September 24, with mailings required between September 24 and October 1. The article states that requests expire and must be renewed, the general-election request deadline is October 22 at 5 p.m., and voted ballots must physically arrive by 7 p.m. on Election Day.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-04t20oc",
+        "headline": "Nearly 150,000 Floridians have voted as registration deadline hits",
+        "sourceName": "Pensacola News Journal",
+        "url": "https://www.pnj.com/story/news/politics/elections/2026/10/05/voter-registration-deadline-florida/92108312007/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The statewide report explains mandatory and optional early-voting dates, the Oct. 22 mail-ballot request deadline, and the statutory schedule for mailing requested vote-by-mail ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0iwqsie",
+        "headline": "Monday is the last day you can register to vote for November's midterm election. Here's what you need to know",
+        "sourceName": "News4JAX",
+        "url": "https://www.news4jax.com/vote-2026/2026/10/05/monday-is-the-last-day-you-can-register-to-vote-for-novembers-midterm-election-heres-what-you-need-to-know/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article covers Florida’s voter-registration deadline, the Oct. 22 deadline to request a mail ballot, accepted forms of photo identification for in-person voting, and provisional-ballot procedures when a voter lacks ID.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-060b6aq",
+        "headline": "Florida voter registration deadline is Mon. Oct. 5: How to register and check your status",
+        "sourceName": "CBS12",
+        "url": "https://cbs12.com/news/local/florida-voter-registration-deadline-is-oct-5-how-to-register-and-check-your-status-election-day-vote-ballot-early-voting-november-general-oct-4-2026",
+        "publishedAt": "2026-10-04",
+        "relevanceSummary": "The statewide voter guide describes Florida’s three voting methods, the Oct. 22 deadline to request a mailed ballot, and the mandatory Oct. 24–31 early-voting period, with possible additional county dates.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-00t0px0",
+        "headline": "Florida voters already casting their midterm election ballots. Guide to voting-by-mail.",
+        "sourceName": "South Florida Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/03/florida-voters-already-casting-their-midterm-election-ballots-guide-to-voting-by-mail/",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "The guide explains Florida’s voting options, including mail voting, early voting from Oct. 19 through Nov. 1 in South Florida, Election Day voting on Nov. 3, the mail-ballot request deadline, and drop-box availability at early-voting centers and elections offices.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0t2b4jr",
+        "headline": "Election 2026: Here’s when Floridians need to register to vote",
+        "sourceName": "FOX 13 Tampa Bay",
+        "url": "https://www.fox13news.com/news/florida-voter-registration-deadline-what-know-before-oct-5",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "The statewide guide lists the Oct. 22 mail-ballot request deadline, mandatory early voting from Oct. 24 through Oct. 31, Election Day polling hours of 7 a.m. to 7 p.m., and the right of voters in line by 7 p.m. to vote.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0yxjju4",
+        "headline": "Florida voter registration deadline closing soon. How to check your status",
+        "sourceName": "Tallahassee Democrat",
+        "url": "https://www.tallahassee.com/story/news/politics/elections/2026/10/01/florida-election-voter-registration-deadline-how-check-status/92034471007/",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article provides statewide instructions for checking registration, requesting a vote-by-mail ballot through the county Supervisor of Elections, and understanding early-voting timing.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-04f23b2",
+        "headline": "Florida Election 2026: Voter Registration, Vote-by-Mail and Early Voting Deadlines You Need to Know",
+        "sourceName": "WFLX",
+        "url": "https://www.wflx.com/2026/10/01/florida-election-2026-voter-registration-vote-by-mail-early-voting-deadlines-you-need-know/",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article explains how Floridians can register or update registration, when early voting occurs, the 7 p.m. Election Day receipt deadline for mail ballots, and where voters may return ballots using secure intake stations or elections offices.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0y50tre",
+        "headline": "What do I need to vote in Florida? 2026 voter guide",
+        "sourceName": "NBC 6 South Florida",
+        "url": "https://www.nbcmiami.com/news/national-international/what-do-i-need-to-vote-in-florida-what-to-know-before-the-election/3865985/?amp=1",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "This Florida voter guide identifies the Oct. 22, 5 p.m. deadline to request a vote-by-mail ballot and the Oct. 19 start of early voting in Miami-Dade, Broward, Palm Beach and Monroe counties, which include South Florida voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-fl22-auto",
-      "startedAt": "2026-09-30T10:12:35.670Z",
-      "completedAt": "2026-09-30T10:12:51.418Z",
+      "id": "run-2026-10-07-fl22-auto",
+      "startedAt": "2026-10-07T10:47:50.649Z",
+      "completedAt": "2026-10-07T10:48:21.252Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 11,
-      "updatesCreated": 5,
+      "sourcesChecked": 12,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for FL-22. Sources checked: 11. LLM verifications: 2. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for FL-22. Sources checked: 12. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:12:51.418Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:48:21.252Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
