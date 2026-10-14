@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:48:21.252Z",
-  "exportedAt": "2026-10-07T11:11:40.467Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:13:31.800Z",
+  "exportedAt": "2026-10-14T09:31:17.843Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -89,7 +89,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-fl-dos-qualifying": {
@@ -166,7 +166,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "Governs photo ID (§101.043), VBM (§§101.62, 101.64, 101.68, 101.69), early voting (§101.657), provisional ballots (§101.048), and related procedures."
       },
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "SB 90 (enacted July 1, 2021) tightened VBM request rules, restricted drop boxes to SOE main office/branches/early voting sites (all must be staffed), and tightened signature-cure process."
       },
@@ -1855,20 +1855,100 @@
         "relevanceSummary": "This Florida voter guide identifies the Oct. 22, 5 p.m. deadline to request a vote-by-mail ballot and the Oct. 19 start of early voting in Miami-Dade, Broward, Palm Beach and Monroe counties, which include South Florida voters.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0jkrnf1",
+        "headline": "Early voting starts soon in these South Florida counties. Dates, locations",
+        "sourceName": "Reuters",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETN92167328007?channel=xsp076",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The article reports early-voting dates for South Florida counties and explains that voters need photo identification, with a second ID required if the first lacks a signature. The statewide identification guidance applies to FL-22 voters, although the listed counties may be outside the district.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0xa56st",
+        "headline": "Is it too late to request a mail-in ballot in Florida?",
+        "sourceName": "WTSP",
+        "url": "https://www.wtsp.com/article/news/politics/elections/voting/request-mail-in-ballot-deadline-florida-2026-election/67-68d79f5e-28af-420f-b2d9-0e8a23ecace4",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Florida voters, including those in FL-22, can request a vote-by-mail ballot through their county Supervisor of Elections until 5 p.m. on Oct. 22. Completed ballots must arrive by 7 p.m. on Election Day, and secure drop boxes are available at supervisors’ offices.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-04eqhz7",
+        "headline": "Early voting begins Oct. 19 at 27 Orange County locations, including two in Apopka",
+        "sourceName": "The Apopka Chief",
+        "url": "https://theapopkachief.com/early-voting-begins-oct-19-at-27-orange-county-locations-including-two-in-apopka/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Orange County’s early-voting schedule and location coverage illustrates county-level implementation of Florida voting procedures. The article reiterates that in-person voters must provide valid photo and signature identification, with a second ID available when the first lacks a signature.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0tqlk3u",
+        "headline": "Where to vote in Florida — 2026 polling place, early voting",
+        "sourceName": "Decode the Vote",
+        "url": "https://www.decodethevote.com/election-2026/florida/where-to-vote",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The statewide voter guide identifies Oct. 24–31 as Florida’s mandatory early-voting period, notes that counties may add days, and summarizes photo-ID and provisional-ballot procedures relevant to FL-22 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0xfbyut",
+        "headline": "How to vote by mail in Florida for the 2026 midterm elections and ...",
+        "sourceName": "CBS News Miami",
+        "url": "https://www.cbsnews.com/miami/news/florida-absentee-voting-vote-by-mail-2026-midterm-elections/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Florida voters must request vote-by-mail ballots from the Supervisor of Elections in their registration county by 5 p.m. on Oct. 22. The article lists required request information and explains that completed ballots may be mailed, delivered to the elections office, or placed in authorized ballot intake stations.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0h7rskb",
+        "headline": "Hurricane Resources & Mail-in Ballots (Week of 10/9)",
+        "sourceName": "Florida AFL-CIO",
+        "url": "https://flaflcio.org/florida-labor-letter-hurricane-resources-mail-in-ballots-week-of-10-9/",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Florida voters who have not received an expected mail ballot may request another from their county Supervisor of Elections by 5 p.m. on Oct. 22. This statewide re-request procedure is relevant to FL-22 voters, particularly where storms disrupt mail delivery.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0i2evdo",
+        "headline": "WUSF's Voter Guide helps you compare the candidates for the 2026 elections",
+        "sourceName": "WUSF",
+        "url": "https://www.wusf.org/text/politics-issues/2026-10-09/wusf-voter-guide-compare-candidates-2026-florida-elections",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "The Florida voter guide summarizes the Oct. 22 vote-by-mail request deadline, Oct. 24–31 mandatory early voting, the Nov. 3 ballot-return deadline, and accepted photo IDs for in-person voting. These statewide procedures apply to FL-22 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-fl22-0ktuuq3",
+        "headline": "Miami-Dade: the deadline to request a mail-in ballot is October 22, and this is how you can check your ballot",
+        "sourceName": "CiberCuba",
+        "url": "https://en.cibercuba.com/noticias/2026-10-08-u1-e13-s27061-nid342273-miami-dade-22-octubre-vence-plazo-pedir-voto-correo-asi",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "Miami-Dade voters can request vote-by-mail ballots through several channels until 5 p.m. on Oct. 22 and must return them by 7 p.m. on Nov. 3. The county-specific instructions are outside FL-22 but reflect Florida ballot procedures and clarify that Election Day polling places cannot accept mail-ballot drop-offs.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-fl22-auto",
-      "startedAt": "2026-10-07T10:47:50.649Z",
-      "completedAt": "2026-10-07T10:48:21.252Z",
+      "id": "run-2026-10-14-fl22-auto",
+      "startedAt": "2026-10-14T09:13:18.225Z",
+      "completedAt": "2026-10-14T09:13:31.800Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
+      "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for FL-22. Sources checked: 12. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for FL-22. Sources checked: 11. LLM verifications: 2. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:48:21.252Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:13:31.800Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
