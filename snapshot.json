@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-18",
-  "updatedAt": "2026-11-18T12:31:04.068Z",
-  "exportedAt": "2026-11-18T12:40:08.252Z",
+  "dataAsOf": "2026-11-25",
+  "updatedAt": "2026-11-25T13:45:18.547Z",
+  "exportedAt": "2026-11-25T13:48:50.508Z",
   "districtCode": "FL-22",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-15",
-        "lastVerified": "2026-11-18",
+        "lastVerified": "2026-11-25",
         "confidence": "high",
         "notes": "Primary calendar authority for FL-22 primary (Aug 18) and general (Nov 3) deadlines."
       },
@@ -2098,17 +2098,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-18-fl22-auto",
-      "startedAt": "2026-11-18T12:30:58.846Z",
-      "completedAt": "2026-11-18T12:31:04.068Z",
+      "id": "run-2026-11-25-fl22-auto",
+      "startedAt": "2026-11-25T13:45:13.337Z",
+      "completedAt": "2026-11-25T13:45:18.547Z",
       "triggerType": "scheduled",
       "sourcesChecked": 16,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-18 for FL-22. Sources checked: 16. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-25 for FL-22. Sources checked: 16. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-25T12:31:04.068Z",
+    "NEXT_REFRESH_AT": "2026-12-02T13:45:18.547Z",
     "WEEKLY_REPORT": {
       "id": "wr-fl22-2026-w25",
       "periodStart": "2026-06-15",
